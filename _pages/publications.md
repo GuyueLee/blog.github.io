@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2024
+- Y. Du, H. Dai, H. Liu, **G. Li**, Y. Ren and K. Zhang, "Efficient and Error-Free Secret Key Generation Leveraging Sorted Indices Matching," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3465042.keywords: {Quantization (signal);Pattern matching;Noise;Accuracy;Wireless communication;Perturbation methods;Sorting;Error-free key generation;noise perturbation;sorted indices matching},
 - 吴天琦,**李古月**,宋宇波,王家恒, 一种用户隐私保持的持续认证协议, 202411483392.1.
 - J Wang, S Gao,**G. Li**, K Gai, and B Xiao, “SAMCU: Secure and Anonymous Multi-Channel Updates in Payment-Channel Networks,”accepted by IEEE Transactions on Information Forensics and Security (TIFS), 2024.
 - H. Yang, B. Xie, J. Wang, **G. Li**, and B. Xiao, “Privacy-Preserving and Secure Decentralized Identity Management for Multiple Controllers,” in Proc. IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 8–12 Dec. 2024, pp. 1-6.
