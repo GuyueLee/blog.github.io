@@ -10,9 +10,12 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+## 2025
+- Zhiming Chu, **Guyue Li**, Qingchun Meng, Haobo Li, Yuwei Zeng,Defeating CSI obfuscation mechanisms: A study on unauthorized Wi-Fi Sensing in wireless sensor network,Computer Networks,Volume 263,2025,111208,ISSN 1389-1286,https://doi.org/10.1016/j.comnet.2025.111208.
+- Liu M, Zhou Z, Shi Q, **G. Li** et al. Joint Beamforming Design for Integrated Sensing and Communication Systems with Hybrid-Colluding Eavesdroppers[J]. IEEE Transactions on Communications, 2025.
+- Wu T, **Li G**, Wang J, et al. PPCA: Privacy-Preserving Continuous Authentication Scheme With Consistency Proof for Zero-Trust Architecture Networks[J]. IEEE Internet of Things Journal, 2025.
 ## 2024
-- Y. Du, H. Dai, H. Liu, **G. Li**, Y. Ren and K. Zhang, "Efficient and Error-Free Secret Key Generation Leveraging Sorted Indices Matching," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3465042.
-
+- Y. Du, H. Dai, H. Liu, **G. Li**, Y. Ren and K. Zhang, "Efficient and Error-Free Secret Key Generation Leveraging Sorted Indices Matching," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3465042. 
 - J Wang, S Gao,**G. Li**, K Gai, and B Xiao, “SAMCU: Secure and Anonymous Multi-Channel Updates in Payment-Channel Networks,”accepted by IEEE Transactions on Information Forensics and Security (TIFS), 2024.
 - H. Yang, B. Xie, J. Wang, **G. Li**, and B. Xiao, “Privacy-Preserving and Secure Decentralized Identity Management for Multiple Controllers,” in Proc. IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 8–12 Dec. 2024, pp. 1-6.
   
