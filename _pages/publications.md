@@ -11,8 +11,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
-- Zhiming Chu, **Guyue Li**, Qingchun Meng, Haobo Li, Yuwei Zeng,Defeating CSI obfuscation mechanisms: A study on unauthorized Wi-Fi Sensing in wireless sensor network,Computer Networks,Volume 263,2025,111208,ISSN 1389 -- 1286,
-https://doi.org/10.1016/j.comnet.2025.111208.
+- Chu Z, **Li G**, Meng Q, et al. Defeating CSI obfuscation mechanisms: A study on unauthorized Wi-Fi Sensing in wireless sensor network[J]. Computer Networks, 2025: 111208.
 - Liu M, Zhou Z, Shi Q, **G. Li** et al. Joint Beamforming Design for Integrated Sensing and Communication Systems with Hybrid-Colluding Eavesdroppers[J]. IEEE Transactions on Communications, 2025.
 - Wu T, **Li G**, Wang J, et al. PPCA: Privacy-Preserving Continuous Authentication Scheme With Consistency Proof for Zero-Trust Architecture Networks[J]. IEEE Internet of Things Journal, 2025.
 ## 2024
