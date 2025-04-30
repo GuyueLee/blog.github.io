@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+## 2025
+* 2023-10-20 课题组**周雅杰**等工作[《Endogenous Security Techniques for Safeguarding Next-Generation Spectrum Usage at the Physical Layer》](https://ieeexplore.ieee.org/document/10979485)被 IEEE Network 录用
+* 2023-10-20 课题组**储志明**等工作[《Defeating CSI obfuscation mechanisms: A study on unauthorized Wi-Fi Sensing in wireless sensor network》]()被Computer Networks 录用
 ## 2024
 * 2024-11-12 课题组**汪文灏、唐宏海**获[研究生国家奖学金](https://kevin33433.github.io/6102laboratory.github.io/%E5%AD%A6%E7%94%9F/award8.html)
 * 2024-11-12 课题组**李皓钰、孙海晰**获[研究生至善奖学金](https://kevin33433.github.io/6102laboratory.github.io/%E5%AD%A6%E7%94%9F/award9.html)
