@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
+- **G. Li** et al., "Endogenous Security Techniques for Safeguarding Next-Generation Spectrum Usage at the Physical Layer," in IEEE Network, doi: 10.1109/MNET.2025.3565201.
 - Chu Z, **Li G**, Meng Q, et al. Defeating CSI obfuscation mechanisms: A study on unauthorized Wi-Fi Sensing in wireless sensor network[J]. Computer Networks, 2025: 111208.
 - Liu M, Zhou Z, Shi Q, **G. Li** et al. Joint Beamforming Design for Integrated Sensing and Communication Systems with Hybrid-Colluding Eavesdroppers[J]. IEEE Transactions on Communications, 2025.
 - Wu T, **Li G**, Wang J, et al. PPCA: Privacy-Preserving Continuous Authentication Scheme With Consistency Proof for Zero-Trust Architecture Networks[J]. IEEE Internet of Things Journal, 2025.
@@ -83,6 +84,7 @@ author_profile: true
 
 ## 2021
 
+- SONG Yubo, GENG Yijin, **LI Guyue**, LI Tao. Identification of LoRa Device Based on Differential Constellation Trace Figure[J]. Netinfo Security, 2021, 21(1): 41-48.
 -  **G. Li**, C. Sun*, W. Xu, M. D. Renzo and A. Hu, “On Maximizing the Sum Secret Key Rate for Reconfigurable Intelligent Surface Assisted Multiuser Systems”, IEEE Transactions on Information Forensics and Security, vol.17, pp. 211-225, 2021.
 
 -  **G. Li\***, Y. Xu, W. Xu, E. Jorswieck and A. Hu, “Robust Key Generation With Hardware Mismatch for Secure MIMO Communications”, IEEE Transactions on Information Forensics and Security,  vol.16, pp. 5264-5278, 2021.
