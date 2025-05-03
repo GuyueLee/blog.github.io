@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## 2025
+* 2023-10-20 课题组**肖清江**等工作[《EOptimal Subcarrier Allocation Scheme for Physical-Layer Key Generation in an OFDMA Network》](https://ieeexplore.ieee.org/document/10979485)被 IEEE Transactions on Information Forensics and Security 录用
 * 2023-10-20 课题组**周雅杰**等工作[《Endogenous Security Techniques for Safeguarding Next-Generation Spectrum Usage at the Physical Layer》](https://ieeexplore.ieee.org/document/10979485)被 IEEE Network 录用
 * 2023-10-20 课题组**储志明**等工作[《Defeating CSI obfuscation mechanisms: A study on unauthorized Wi-Fi Sensing in wireless sensor network》]()被Computer Networks 录用
 ## 2024
