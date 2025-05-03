@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## 2025
-* 2025-5-1 课题组**肖清江**等工作[《EOptimal Subcarrier Allocation Scheme for Physical-Layer Key Generation in an OFDMA Network》](https://ieeexplore.ieee.org/document/10979485)被 IEEE Transactions on Information Forensics and Security 录用
+* 2025-5-1 课题组**肖清江**等工作[《Optimal Subcarrier Allocation Scheme for Physical-Layer Key Generation in an OFDMA Network》](https://ieeexplore.ieee.org/document/10981781)被 IEEE Transactions on Information Forensics and Security 录用
 * 2025-4-28 课题组**周雅杰**等工作[《Endogenous Security Techniques for Safeguarding Next-Generation Spectrum Usage at the Physical Layer》](https://ieeexplore.ieee.org/document/10979485)被 IEEE Network 录用
-* 2025-3-8 课题组**储志明**等工作[《Defeating CSI obfuscation mechanisms: A study on unauthorized Wi-Fi Sensing in wireless sensor network》]()被Computer Networks 录用
+* 2025-3-8 课题组**储志明**等工作[《Defeating CSI obfuscation mechanisms: A study on unauthorized Wi-Fi Sensing in wireless sensor network》](https://www.sciencedirect.com/science/article/pii/S1389128625001768?ref=pdf_download&fr=RR-2&rr=9319c1db6beba295)被Computer Networks 录用
 ## 2024
 * 2024-11-12 课题组**汪文灏、唐宏海**获[研究生国家奖学金](https://kevin33433.github.io/6102laboratory.github.io/%E5%AD%A6%E7%94%9F/award8.html)
 * 2024-11-12 课题组**李皓钰、孙海晰**获[研究生至善奖学金](https://kevin33433.github.io/6102laboratory.github.io/%E5%AD%A6%E7%94%9F/award9.html)
