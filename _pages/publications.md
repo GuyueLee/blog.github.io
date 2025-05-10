@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
+- A. Huo, **G. Li**, L, Yang, Z. Liu and A. Hu, “Enhancing Wireless Communication Security With Variable Bloom Filter-Based Physical-Layer Secure Transmission,” in IEEE Internet of Things Journal.
 - Q. Xiao, **G. Li**, Z. Liu and A. Hu, "Optimal Subcarrier Allocation Scheme for Physical-Layer Key Generation in an OFDMA Network," in IEEE Transactions on Information Forensics and Security.
 - **G. Li** et al., "Endogenous Security Techniques for Safeguarding Next-Generation Spectrum Usage at the Physical Layer," in IEEE Network, doi: 10.1109/MNET.2025.3565201.
 - Chu Z, **Li G**, Meng Q, et al. Defeating CSI obfuscation mechanisms: A study on unauthorized Wi-Fi Sensing in wireless sensor network[J]. Computer Networks, 2025: 111208.
