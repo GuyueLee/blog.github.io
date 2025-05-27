@@ -70,6 +70,15 @@ redirect_from:
 - [杨丽琳]()(南京国企)
 - [赵金荣](https://kevin33433.github.io/6102laboratory.github.io/children/zhaojinrong.html)(百度)
 - [王文杰]()(小米)
+### 2025：
+2025：
+- [储志明]:(https://kevin33433.github.io/6102laboratory.github.io/)(东南大学读博)
+- [张泽琛]:(https://kevin33433.github.io/6102laboratory.github.io/)公务员
+- [杨默凯]:(https://kevin33433.github.io/6102laboratory.github.io/)华为
+- [李皓钰]:(https://kevin33433.github.io/6102laboratory.github.io/)中兴
+- [孙海晰]:(https://kevin33433.github.io/6102laboratory.github.io/)荣耀
+- [孙瑞辰]:(https://kevin33433.github.io/6102laboratory.github.io/)荣耀
+- [孟庆纯]:(https://kevin33433.github.io/6102laboratory.github.io/)美团
 
 # 宣传视频：
 [![李老师招生视频](https://img.zcool.cn/community/011e715be5a375a80121ab5dcb09b4.jpg?x-oss-process=image/format,webp)](https://meeting.tencent.com/user-center/shared-record-info?id=mEsNeJTGwn71xblA3Y_brTXHnBrwDHc53o-yLcsOaBw&is-single=false&record_type=3&from=3)
