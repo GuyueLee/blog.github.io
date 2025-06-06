@@ -75,7 +75,7 @@ redirect_from:
 - [张泽琛](https://kevin33433.github.io/6102laboratory.github.io/)(公务员)
 - [杨默凯](https://kevin33433.github.io/6102laboratory.github.io/)(华为)
 - [李皓钰](https://kevin33433.github.io/6102laboratory.github.io/)(中兴)
-- [孙海晰](https://kevin33433.github.io/6102laboratory.github.io/)(荣耀)
+- [孙海晰](https://kevin33433.github.io/6102laboratory.github.io/)(国家电网南瑞集团)
 - [孙瑞辰](https://kevin33433.github.io/6102laboratory.github.io/)(荣耀)
 - [孟庆纯](https://kevin33433.github.io/6102laboratory.github.io/)(美团)
 
