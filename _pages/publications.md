@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
-
+- Y. Hou, H. Sun,**G. Li**, S. Dang, and A. Hu, “Securing Wireless Communications via Channel Reciprocity and Dynamic Constellation Obfuscation,”  in IEEE Internet of Things Journal, early access, Jun. 14, 2025.
 - A. Huo, **G. Li**, L, Yang, Z. Liu and A. Hu, “Enhancing Wireless Communication Security With Variable Bloom Filter-Based Physical-Layer Secure Transmission,” in IEEE Internet of Things Journal,vol. 12, no. 11, pp. 17596–17609, June 2025, doi: 10.1109/JIOT.2025.3537980.
 - Q. Xiao, **G. Li**, Z. Liu and A. Hu, "Optimal Subcarrier Allocation Scheme for Physical-Layer Key Generation in an OFDMA Network," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 4929–4942, 2025, doi: 10.1109/TIFS.2025.3566242.
 - **G. Li** et al., "Endogenous Security Techniques for Safeguarding Next-Generation Spectrum Usage at the Physical Layer," in IEEE Network, doi: 10.1109/MNET.2025.3565201.
