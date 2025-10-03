@@ -11,8 +11,8 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
-- Zhou Xu, Guyue Li, Zhe Peng and Aiqun Hu. Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting. In 2025 IEEE Conference on Communications and Network Security (CNS), pages 1-9, Avignon, France, September 2025. IEEE.
-- H. Luo, G. li, A. Brighente, M. Conti, Y. Xing, A. Hu, X. Wang, "Channel-Robust RF Fingerprint Identification for Multi-Antenna 5G User Equipments," in IEEE Transactions on Information Forensics and Security, early access, doi: 10.1109/TIFS.2025.3611154.
+- Zhou Xu, **Guyue Li**, Zhe Peng and Aiqun Hu. Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting. In 2025 IEEE Conference on Communications and Network Security (CNS), pages 1-9, Avignon, France, September 2025. IEEE.
+- H. Luo, **G. Li**, A. Brighente, M. Conti, Y. Xing, A. Hu, X. Wang, "Channel-Robust RF Fingerprint Identification for Multi-Antenna 5G User Equipments," in IEEE Transactions on Information Forensics and Security, early access, doi: 10.1109/TIFS.2025.3611154.
 - Y. Hou, H. Sun,**G. Li**, S. Dang, and A. Hu, “Securing Wireless Communications via Channel Reciprocity and Dynamic Constellation Obfuscation,”  in IEEE Internet of Things Journal, early access, Jun. 14, 2025.
 - A. Huo, **G. Li**, L. Yang, Z. Liu and A. Hu, "Enhancing Wireless Communication Security With Variable Bloom Filter-Based Physical-Layer Secure Transmission," in IEEE Internet of Things Journal, vol. 12, no. 14, pp. 28835-28849, 15 July15, 2025, doi: 10.1109/JIOT.2025.3567288.
 - Q. Xiao, **G. Li**, Z. Liu and A. Hu, "Optimal Subcarrier Allocation Scheme for Physical-Layer Key Generation in an OFDMA Network," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 4929–4942, 2025, doi: 10.1109/TIFS.2025.3566242.
