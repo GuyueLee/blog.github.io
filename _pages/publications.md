@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
+
+- Xu Z, **Li G**， Peng Z, et al. Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting[J]. arXiv preprint arXiv:2509.22154, 2025.
 - Zhou Xu, **Guyue Li**, Zhe Peng and Aiqun Hu. Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting. In 2025 IEEE Conference on Communications and Network Security (CNS), pages 1-9, Avignon, France, September 2025. IEEE.
 - H. Luo, **G. Li**, A. Brighente, M. Conti, Y. Xing, A. Hu, X. Wang, "Channel-Robust RF Fingerprint Identification for Multi-Antenna 5G User Equipments," in IEEE Transactions on Information Forensics and Security, early access, doi: 10.1109/TIFS.2025.3611154.
 - Y. Hou, H. Sun,**G. Li**, S. Dang, and A. Hu, “Securing Wireless Communications via Channel Reciprocity and Dynamic Constellation Obfuscation,”  in IEEE Internet of Things Journal, early access, Jun. 14, 2025.
