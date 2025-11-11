@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
-
+- **李古月**, 张子豪, 毛承海, 吕锐. 基于累积量与深度学习融合的水下调制识别模型[J]. 信息网络安全, 2025, 25(10): 1554-1569.
 - Xu Z, **Li G**， Peng Z, et al. Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting[J]. arXiv preprint arXiv:2509.22154, 2025.
 - Zhou Xu, **Guyue Li**, Zhe Peng and Aiqun Hu. Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting. In 2025 IEEE Conference on Communications and Network Security (CNS), pages 1-9, Avignon, France, September 2025. IEEE.
 - H. Luo, **G. Li**, A. Brighente, M. Conti, Y. Xing, A. Hu, X. Wang, “Channel-Robust RF Fingerprint Identification for Multi-Antenna 5G User Equipments”, in IEEE Transactions on Information Forensics and Security, , vol. 20, pp. 10761-10776, 2025, doi: 10.1109/TIFS.2025.3611154.
