@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
+- **G. Li**, Y. Zhou, Y. Sun, S. Wen, S. Wang, A. Hu, G. Wen, "Endogenous Security Techniques for Safeguarding Next-Generation Spectrum Usage at the Physical Layer", in IEEE Network, vol. 39, no. 6, pp. 128-138, Nov. 2025, doi: 10.1109/MNET.2025.3565201.
 - **李古月**, 张子豪, 毛承海, 吕锐. 基于累积量与深度学习融合的水下调制识别模型[J]. 信息网络安全, 2025, 25(10): 1554-1569.
 - Xu Z, **Li G**， Peng Z, et al. Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting[J]. arXiv preprint arXiv:2509.22154, 2025.
 - Zhou Xu, **Guyue Li**, Zhe Peng and Aiqun Hu. Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting. In 2025 IEEE Conference on Communications and Network Security (CNS), pages 1-9, Avignon, France, September 2025. IEEE.
