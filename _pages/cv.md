@@ -19,6 +19,7 @@ redirect_from:
 * 2025-9-8 恭喜！东南大学**李古月老师**与本科生**徐舟同学**关于射频指纹仿冒攻击的论文《Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting》，在网络安全顶会IEEE CNS 2025上斩获最佳论文荣誉提名！
 * 2025-8-15 恭喜**徐舟**等同学获得第十八届全国大学生信息安全竞赛作品赛优胜奖，恭喜**王甜甜**等同学获得第十八届全国大学生信息安全竞赛作品赛一等奖，恭喜**王甜甜**等同学获得第十八届全国大学生信息安全竞赛最具创新创业价值奖
 * 2025-8-15 恭喜**李古月老师**获得第十八届全国大学生信息安全竞赛作品赛优秀指导教师
+* 2025-6-13 恭喜**李古月老师**的“基于量子密钥的物联网安全技术研发与产业化”成果入选2024江苏省行业领域十大科技进展！
 * 2025-6-13 课题组**孙海晰、李皓钰**被评为[网络空间安全学院2025届优秀毕业研究生](https://cyber.seu.edu.cn/2025/0612/c18223a531710/page.htm)。
 * 2025-5-1 课题组**霍安琪**等工作[《Enhancing Wireless Communication Security With Variable Bloom Filter-Based Physical-Layer Secure Transmission》](https://ieeexplore.ieee.org/document/10988678)被 IEEE Internet of Things Journal 录用
 * 2025-5-1 课题组**肖清江**等工作[《Optimal Subcarrier Allocation Scheme for Physical-Layer Key Generation in an OFDMA Network》](https://ieeexplore.ieee.org/document/10981781)被 IEEE Transactions on Information Forensics and Security 录用
