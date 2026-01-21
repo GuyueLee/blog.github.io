@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
+- Chu, Zhiming, et al. "Privacy-preserving WiFi sensing in WSNs via CSI obfuscation." Computers & Security (2025): 104594.
+- Han, Qi, et al. "Adversarial Graph Perturbation for Smart Contract Vulnerability Detection." 2025 IEEE Conference on Communications and Network Security (CNS). IEEE, 2025.
+- He C, Meng Q, Chen Y, et al. An Improved Metric-Active Learning Approach for few Labeled Radio Frequency Fingerprinting[J]. Computer Networks, 2025: 111794.
 - Liu, Meiding, et al. "Joint Beamforming Design for Integrated Sensing and Communication Systems with Hybrid-Colluding Eavesdroppers." IEEE Transactions on Communications (2025).
 - Shahiri, Vahid, **Guyue Li**, and Hamid Behroozi. "Physical Layer Group Key Generation With the Aid of Reconfigurable Intelligent Surfaces." arXiv preprint arXiv:2507.00714 (2025).
 - Huang, Zhiyu, et al. "Fluid Antenna System-assisted Physical Layer Secret Key Generation." arXiv preprint arXiv:2509.15547 (2025).
