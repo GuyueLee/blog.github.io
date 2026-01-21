@@ -12,8 +12,6 @@ redirect_from:
 
 个人主页：
 https://www.researchgate.net/profile/Li_Guyue
-https://ieeexplore.ieee.org/author/37085758406
-https://scholar.google.com/citations?user=dsi9hPEAAAAJ&hl=zh-CN
 
 邮箱：guyuelee@seu.edu.cn
 
