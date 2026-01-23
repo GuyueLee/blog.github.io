@@ -18,7 +18,7 @@ author_profile: true
 - Shahiri, Vahid, **Guyue Li**, and Hamid Behroozi. "Physical Layer Group Key Generation With the Aid of Reconfigurable Intelligent Surfaces." arXiv preprint arXiv:2507.00714 (2025).
 - Huang, Zhiyu, et al. "Fluid Antenna System-assisted Physical Layer Secret Key Generation." arXiv preprint arXiv:2509.15547 (2025).
 - Sun, Yingjie, et al. "Channel-Robust RFF for Low-Latency 5G Device Identification in SIMO Scenarios." arXiv preprint arXiv:2511.08902 (2025).
-- C. Sun, **G. Li**, S. Wang and G. Wen, "Movable Antenna Enabled Dual-Scale Beams for Resilient Communication, Sensing, and Security," in IEEE Wireless Communications, doi: 10.1109/MWC.2025.3622920.
+- Sun, Chen, et al. "Movable Antenna Enabled Dual-Scale Beams for Resilient Communication, Sensing, and Security." IEEE WIRELESS COMMUNICATIONS (2025).
 - Y. Xing, X. Zhang, **G. Li**, Y. Lin and H. Zhao, "A Robust Radio Frequency Fingerprint Open-Set Recognition Scheme for IoT Devices," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 12693-12706, 2025, doi: 10.1109/TIFS.2025.3636021.
 - J. Chen, H. Li, **G. Li** and X. Cao, "The Optimization of XL-RIS-assisted Physical Layer Key Generation in Near-Field," 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall), Chengdu, China, 2025, pp. 1-6, doi: 10.1109/VTC2025-Fall65116.2025.11310626.
 - **G. Li**, Y. Zhou, Y. Sun, S. Wen, S. Wang, A. Hu, G. Wen, "Endogenous Security Techniques for Safeguarding Next-Generation Spectrum Usage at the Physical Layer", in IEEE Network, vol. 39, no. 6, pp. 128-138, Nov. 2025, doi: 10.1109/MNET.2025.3565201.
