@@ -113,18 +113,11 @@ author_profile: true
 
 
 ## 2018年
-
--  **G. Li**, A. Hu, C. Sun and J. Zhang, Constructing Reciprocal Channel Coefficients for Secret Key Generation in FDD Systems, IEEE Communications Letters, vol.22, no.12, pp.2487-2490, 2018.
-
--  Y. Xing, A. Hu, J. Zhang, L. Peng and **G. Li**, On Radio Frequency Fingerprint Identification for DSSS Systems in Low SNR Scenarios, IEEE Communications Letters, vol.22, no.11, pp.2326-2329, 2018.
-
--  L. Peng, **G. Li**, J. Zhang, and A. Hu, Securing M2M Transmissions Using Nonreconciled Secret Keys Generated from Wireless Channels Measurements, in Proc. IEEE GLOBECOM Workshop Trusted Commun. with Physical Layer Security (TCPLS), Abu Dhabi, UAE, 9-13 Dec. 2018, pp.1-6.
-
--  L. Hu, **G. Li**, A. Hu and C. Cao, Lightweight group key distribution method based on high similar wireless channel characteristics, in Proc. of 18th  IEEE International Conference on Communication Technology (ICCT 2018), Chongqing,8-11 Oct.2018, pp.1-5.
-
--  **G. Li**, A. Hu, J. Zhang, L. Peng, C. Sun and D. Cao, High-Agreement Uncorrelated Secret Key Generation Based on Principal Component Analysis Preprocessing, in IEEE Transactions on Communications, vol. 66, no. 7, pp. 3022-3034, July 2018.
-
-
+- PENG L, **LI G**, ZHANG J, et al. Securing m2m transmissions using nonreconciled secret keys generated from wireless channels[C]//2018 IEEE Globecom Workshops (GC Wkshps). 2018: 1-6.
+- **LI G**, HU A, SUN C, et al. Constructing reciprocal channel coefficients for secret key generation in FDD systems[J]. IEEE Communications Letters, 2018, 22(12): 2487-2490.
+- **LI G**, HU A, ZHANG J, et al. High-agreement uncorrelated secret key generation based on principal component analysis preprocessing[J]. IEEE Transactions on Communications, 2018, 66(7): 3022-3034.
+- HU L, HU A, **LI G**, et al. Lightweight group key distribution method based on high similar wireless channel characteristics[C]//2018 IEEE 18th International Conference on Communication Technology (ICCT). 2018: 140-144.
+- XING Y, HU A, ZHANG J, et al. On radio frequency fingerprint identification for DSSS systems in low SNR scenarios[J]. IEEE Communications Letters, 2018, 22(11): 2326-2329.
 
 ## 2017年
 
