@@ -85,22 +85,13 @@ author_profile: true
 
 ## 2020
 
--  C. Sun, H. Yang and **G. Li\***, AmpRmdr: Remainder-Based Secret Key Generation Using Wireless Channel Amplitude, IEEE Access, vol. 8, pp. 228178 - 228187, 2020.
-
--  C. Sun and **G. Li\***, Power Allocation and Beam Scheduling for Multi-User Massive MIMO Secret Key Generation, IEEE Access, vol. 8, pp. 164580-164592, 2020.
-
--  J. Zhang, **G. Li**, A. Marshall, A. Hu and L. Hanzo, A New Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels, IEEE Access, vol. 8, pp. 138406 - 138446, 2020.
-
--  Y. Xing, T. Wang, F. Zhou, A. Hu*, **G. Li**, and L. Peng, “EVAL cane: Non-intrusive monitoring platform with a novel gait-based user identification scheme,” IEEE Trans. Instrum. Meas., vol. 70: 2500115, 2020.
-
--  Y. Xing, A. Hu*, J. Zhang, J. Yu, **G. Li**, and T. Wang, “Design of a robust radio frequency fingerprint identification scheme for multi-mode LFM radar,” IEEE Internet of Things Journal, vol. 7, no. 10, pp. 10581-10593, 2020.
-
--  **李古月**, 俞佳宝, 胡爱群. 基于设备与信道特征的物理层安全方法[J]. 密码学报, 2020, 7(2): 224-248.
-
--  袁瑞, 彭林宁, **李古月**, 付华. 不同环境下无线信道密钥生成性能研究[J]. 密码学报, 2020, 7(2): 261-273.
-
--  Y. Chen, **G. Li\***, C. Sun, J. Zhang, E. Jorswieck and B. Xiao. Beam-Domain Secret Key Generation for Multi-User Massive MIMO Networks, in Proc. IEEE ICC, Virtual Conference, 7-11. June, 2020, pp. 1-6.
-
+- CHEN Y, **LI G**, SUN C, et al. Beam-domain secret key generation for multi-user massive MIMO networks[C]//ICC 2020 - 2020 IEEE International Conference on Communications (ICC). 2020: 1-6.
+- ZHANG J, **LI G**, MARSHALL A, et al. A new frontier for IoT security emerging from three decades of key generation relying on wireless channels[J]. IEEE Access, 2020, 8: 138406-138446.
+- XING Y, HU A, ZHANG J, et al. Design of a robust radio-frequency fingerprint identification scheme for multimode LFM radar[J]. IEEE Internet of Things Journal, 2020, 7(10): 10581-10593.
+- SUN C, **LI G**. Power allocation and beam scheduling for multi-user massive MIMO secret key generation[J]. IEEE Access, 2020, 8: 164580164592.
+- **李古月**, 俞佳宝, 胡爱群. 基于设备与信道特征的物理层安全方法[J]. 密 码学报, 2020, 7(2): 224-248.
+- 袁瑞, 彭林宁, **李古月**, 等. 不同环境下无线信道密钥生成性能研究[J]. 密码学报, 2020, 7(2): 261-273.
+- SUN C, YANG H, **LI G**. AmpRmdr: Remainder-based secret key generation using wireless channel amplitude[J]. IEEE Access, 2020, 8: 228178228187.
 
 
 ## 2019
