@@ -70,33 +70,17 @@ author_profile: true
 - 胡奥婷, 胡爱群, 胡韵, 等. 机器学习中差分隐私的数据共享及发布: 技术､应用和挑战[J]. 信息安全学报, 2022, 7(4): 1-16.
 - **李古月**, 胡爱群. 网络空间安全专业课程思政教学探索与实践--以东南大学“网络空间安全新进展”课程为例[J]. 网络与信息安全学报, 2022, 8(2): 183-189.
 ## 2021
-
-- SONG Yubo, GENG Yijin, **LI Guyue**, LI Tao. Identification of LoRa Device Based on Differential Constellation Trace Figure[J]. Netinfo Security, 2021, 21(1): 41-48.
--  **G. Li**, C. Sun*, W. Xu, M. D. Renzo and A. Hu, “On Maximizing the Sum Secret Key Rate for Reconfigurable Intelligent Surface Assisted Multiuser Systems”, IEEE Transactions on Information Forensics and Security, vol.17, pp. 211-225, 2021.
-
--  **G. Li\***, Y. Xu, W. Xu, E. Jorswieck and A. Hu, “Robust Key Generation With Hardware Mismatch for Secure MIMO Communications”, IEEE Transactions on Information Forensics and Security,  vol.16, pp. 5264-5278, 2021.
-
--  X. Zhang, **G. Li\***, J. Zhang, A. Hu, Z. Hou and B. Xiao, “Deep Learning-based Physical-Layer Secret Key Generation for FDD Systems”, IEEE Internet of Things Journal, vol. 9, no. 8, pp. 6081-6094, 2022. 
-
--  Y. Yang, A. Hu*, J. Yu, **G. Li**, Z. Zhang, Radio Frequency Fingerprint Identification Based on Stream Differential Constellation Trace Figures, accepted for publication in Physical Communication.
-
--  H. Luo, **G. Li\***, L. Hu, “On the Security of RIS-assisted Manipulating Attack in MISO systems”, in Proc. IEEE VTC, Virtual Conference, 27-30 September 2021, pp. 1-5. 
-
--  L. Hu, **G. Li\***, H. Luo, and A. Hu, “On the RIS Manipulating Attack and Its Countermeasures in Physical-layer Key Generation”, in Proc. IEEE VTC, Virtual Conference, 27-30 September 2021, pp. 1-5. 
-
--  X. Zhang, **G. Li\***, Z. Hou and A. Hu, “Secret Key Generation for FDD Systems Based on Complex-Valued Neural Network” in Proc. IEEE VTC, Virtual Conference, 27-30 September 2021, pp. 1-5.
-
--  L. Hu, Y. Chen,**G. Li\*** and A. Hu, Exploiting Artificial Randomness for Fast Secret Key Generation in Quasi-static Environments, in Proc. IEEE 6th International Conference on Signal and Image Processing (ICSIP), Nanjing, China, 9-11, Jul. 2021, pp. 1-5.
-
--  Y. Xu, A. Hu* and **G. Li**, LOBBY: A Novel Physical-layer Key Generation Method, in Proc. 4th International Conference on Communication Engineering and Technology (ICCET), Shanghai, China, 25-27, Feb. 2021, pp. 1-5.
-
--  X. Zhou, A. Hu*, **G. Li**, L. Peng, Y. Xing and J. Yu, A Robust Radio Frequency Fingerprint Extraction Scheme for Practical Device Recognition, IEEE Internet of Things Journal, vol. 8, no. 14, pp. 11276-11289, 2021. 
-
--  **G. Li**, C. Sun*, E. Jorswieck, J. Zhang  and A. Hu. Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks, IEEE Transactions on Information Forensics and Security (TIFS), vol. 16, pp. 968-982, 2021.
-
-
--  **G. Li\***, Z. Zhang, J. Zhang and A. Hu, Encrypting Wireless Communications on the Fly Using One-Time Pad and Key Generation, IEEE Internet of Things Journal, vol. 8, no. 1, pp. 357-369, 2021.
-
+- **LI G**, XU Y, XU W, et al. Robust key generation with hardware mismatch for secure MIMO communications[J]. IEEE Transactions on Information Forensics and Security, 2021, 16: 5264-5278.
+- LUO H, **LI G**, HU L. On the security of RIS-assisted manipulating attack in MISO systems[C]//2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall). 2021: 1-5.
+- HU L, **LI G**, LUO H, et al. On the RIS manipulating attack and its countermeasures in physical-layer key generation[C]//2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall). 2021: 1-5.
+- ZHANG X, **LI G**, HOU Z, et al. Secret key generation for FDD systems based on complex-valued neural network[C]//2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall). 2021: 1-6.
+- HU L, CHEN Y, **LI G**, et al. Exploiting artificial randomness for fast secret key generation in quasi-static environments[C]//2021 IEEE 6th International Conference on Signal and Image Processing (ICSIP). 2021: 985-989.
+- **LI G**, SUN C, JORSWIECK E A, et al. Sum secret key rate maximization for TDD multi-user massive MIMO wireless networks[J]. IEEE Transactions on Information Forensics and Security, 2021, 16: 968-982.
+- XING Y, WANG T, ZHOU F, et al. EVAL cane: Nonintrusive monitoring platform with a novel gait-based user-identification scheme[J]. IEEE Transactions on Instrumentation and Measurement, 2021, 70: 1-15.
+- **LI G**, ZHANG Z, ZHANG J, et al. Encrypting wireless communications on the fly using one-time pad and key generation[J]. IEEE Internet of Things Journal, 2021, 8(1): 357-369.
+- XU Y, HU A, **LI G**. LOBBY: A novel physical-layer key generation method[C]//Proceedings of the 2021 9th International Conference on Communications and Broadband Networking. 2021: 295-299.
+- 宋宇波, 耿益瑾, **李古月**, 等. 基于差分星座轨迹图的LoRa设备识别方法[J]. 信息网络安全, 2021, 21(1): 41-48.
+- ZHOU X, HU A, **LI G**, et al. A robust radio-frequency fingerprint extraction scheme for practical device recognition[J]. IEEE Internet of Things Journal, 2021, 8(14): 11276-11289.
 
 
 ## 2020
