@@ -59,6 +59,7 @@ author_profile: true
 - SUN H, **LI G**, LI H, et al. A physical-layer key generation scheme for non-square channel matrices based on PMI[C]//2023 IEEE/CIC International Conference on Communications in China (ICCC). 2023: 1-6.
   
 ## 2022
+- **LI G**, SHI J, YU J, et al. E-fin: Enabling RF fingerprinting for realworld aircraft with few labeled ADS-b signals[Z].
 - HU L, **LI G**, QIAN X, et al. Joint transmit and reflective beamforming for RIS-assisted secret key generation[C]//GLOBECOM 2022 - 2022 IEEE Global Communications Conference. 2022: 2352-2357.
 - HUANG Z, **LI G**, HU A, et al. Recognizing automotive ethernet device by extracting fingerprint from power spectrum[C]//2022 IEEE 22nd International Conference on Communication Technology (ICCT). 2022: 1442-1446.
 - HOU Y, **LI G**, DANG S, et al. Physical layer encryption scheme based on dynamic constellation rotation[C]//2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall). 2022: 1-5.
@@ -129,7 +130,7 @@ author_profile: true
 
 
 ## 2016年及之前
-- **LI G**, SHI J, YU J, et al. E-fin: Enabling RF fingerprinting for realworld aircraft with few labeled ADS-b signals[Z].
+
 - **LI G**, HU A. MISO secrecy transmission via designing artificial noise by receiver under perfect and imperfect CSI[C]//2016 2nd IEEE International Conference on Computer and Communications (ICCC). 2016: 2664-2668.
 - MINGFU X, AIQUN H, YI H, et al. Monte carlo based test pattern generation for hardware trojan detection[C]//2013 IEEE 11th International Conference on Dependable, Autonomic and Secure Computing. 2013: 131-136.
 - **LI G**, HU A, PENG L, et al. The optimal preprocessing approach for secret key generation from OFDM channel measurements[C]//2016 IEEE Globecom Workshops (GC Wkshps). 2016: 1-6.
