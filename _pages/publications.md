@@ -121,11 +121,9 @@ author_profile: true
 
 ## 2017年
 
--  **G. Li**, A. Hu, J. Zhang, and B. Xiao, Security Analysis of a Novel Artificial Randomness Approach for Fast Key Generation, in Proc. of the IEEE GLOBECOM (GLOBECOM-2017), Singapore, 4-8 Dec. 2017, pp. 1-6.
-
--  L. Peng, **G. Li** and A. Hu, Channel Reciprocity Improvement of Secret Key Generation with Loop-back Transmissions, in Proc. of the 17th IEEE International Conference on Communication Technology (ICCT 2017), Chengdu, 27-30 Oct. 2017, pp. 1-6.
-
--  **李古月**,胡爱群.基于K-L变换的无线信道密钥提取方法[J].东南大学学报(自然科学版），2017,47(2):203-208．
+- PENG L, **LI G**, HU A. Channel reciprocity improvement of secret key generation with loop-back transmissions[C]//2017 IEEE 17th International Conference on Communication Technology (ICCT). 2017: 193-198.
+- **LI G**, HU A, ZHANG J, et al. Security analysis of a novel artificial randomness approach for fast key generation[C]//GLOBECOM 2017 - 2017 IEEE Global Communications Conference. 2017: 1-6.
+- **李古月**, 胡爱群. 基于K-L变换的无线信道密钥提取方法[J]. 东南大学学报(自然科学版), 2017, 47(2): 203-208.
 
 
 
