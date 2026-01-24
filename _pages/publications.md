@@ -11,49 +11,24 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
-- Chu, Zhiming, et al. "Privacy-preserving WiFi sensing in WSNs via CSI obfuscation." Computers & Security (2025): 104594.
-- Han, Qi, et al. "Adversarial Graph Perturbation for Smart Contract Vulnerability Detection." 2025 IEEE Conference on Communications and Network Security (CNS). IEEE, 2025.
-- He C, Meng Q, Chen Y, et al. An Improved Metric-Active Learning Approach for few Labeled Radio Frequency Fingerprinting[J]. Computer Networks, 2025: 111794.
-- Liu, Meiding, et al. "Joint Beamforming Design for Integrated Sensing and Communication Systems with Hybrid-Colluding Eavesdroppers." IEEE Transactions on Communications (2025).
-- Shahiri, Vahid, **Guyue Li**, and Hamid Behroozi. "Physical Layer Group Key Generation With the Aid of Reconfigurable Intelligent Surfaces." arXiv preprint arXiv:2507.00714 (2025).
-- Huang, Zhiyu, et al. "Fluid Antenna System-assisted Physical Layer Secret Key Generation." arXiv preprint arXiv:2509.15547 (2025).
-- Sun, Yingjie, et al. "Channel-Robust RFF for Low-Latency 5G Device Identification in SIMO Scenarios." arXiv preprint arXiv:2511.08902 (2025).
-- Sun, Chen, et al. "Movable Antenna Enabled Dual-Scale Beams for Resilient Communication, Sensing, and Security." IEEE WIRELESS COMMUNICATIONS (2025).
-- Y. Xing, X. Zhang, **G. Li**, Y. Lin and H. Zhao, "A Robust Radio Frequency Fingerprint Open-Set Recognition Scheme for IoT Devices," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 12693-12706, 2025, doi: 10.1109/TIFS.2025.3636021.
-- J. Chen, H. Li, **G. Li** and X. Cao, "The Optimization of XL-RIS-assisted Physical Layer Key Generation in Near-Field," 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall), Chengdu, China, 2025, pp. 1-6, doi: 10.1109/VTC2025-Fall65116.2025.11310626.
-- **G. Li**, Y. Zhou, Y. Sun, S. Wen, S. Wang, A. Hu, G. Wen, "Endogenous Security Techniques for Safeguarding Next-Generation Spectrum Usage at the Physical Layer", in IEEE Network, vol. 39, no. 6, pp. 128-138, Nov. 2025, doi: 10.1109/MNET.2025.3565201.
-- **李古月**, 张子豪, 毛承海, 吕锐. 基于累积量与深度学习融合的水下调制识别模型[J]. 信息网络安全, 2025, 25(10): 1554-1569.
-- Zhou Xu, **Guyue Li**, Zhe Peng and Aiqun Hu. Collusion-Driven Impersonation Attack on Channel-Resistant RF Fingerprinting. In 2025 IEEE Conference on Communications and Network Security (CNS), pages 1-9, Avignon, France, September 2025. IEEE.
-- H. Luo, **G. Li**, A. Brighente, M. Conti, Y. Xing, A. Hu, X. Wang, “Channel-Robust RF Fingerprint Identification for Multi-Antenna 5G User Equipments”, in IEEE Transactions on Information Forensics and Security, , vol. 20, pp. 10761-10776, 2025, doi: 10.1109/TIFS.2025.3611154.
-- Y. Hou, H. Sun,**G. Li**, S. Dang, and A. Hu, “Securing Wireless Communications via Channel Reciprocity and Dynamic Constellation Obfuscation,”  in IEEE Internet of Things Journal, early access, Jun. 14, 2025.
-- A. Huo, **G. Li**, L. Yang, Z. Liu and A. Hu, "Enhancing Wireless Communication Security With Variable Bloom Filter-Based Physical-Layer Secure Transmission," in IEEE Internet of Things Journal, vol. 12, no. 14, pp. 28835-28849, 15 July15, 2025, doi: 10.1109/JIOT.2025.3567288.
-- Q. Xiao, **G. Li**, Z. Liu and A. Hu, "Optimal Subcarrier Allocation Scheme for Physical-Layer Key Generation in an OFDMA Network," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 4929–4942, 2025, doi: 10.1109/TIFS.2025.3566242.
-- **G. Li** et al., "Endogenous Security Techniques for Safeguarding Next-Generation Spectrum Usage at the Physical Layer," in IEEE Network, doi: 10.1109/MNET.2025.3565201.
-- Chu Z, **Li G**, Meng Q, et al. Defeating CSI obfuscation mechanisms: A study on unauthorized Wi-Fi Sensing in wireless sensor network[J]. Computer Networks, 2025: 111208.
-- Liu M, Zhou Z, Shi Q, **G. Li** et al. Joint Beamforming Design for Integrated Sensing and Communication Systems with Hybrid-Colluding Eavesdroppers[J]. IEEE Transactions on Communications, 2025.
-- Wu T, **Li G**, Wang J, et al. PPCA: Privacy-Preserving Continuous Authentication Scheme With Consistency Proof for Zero-Trust Architecture Networks[J]. IEEE Internet of Things Journal, 2025.
-## 2024
-- Y. Du, H. Dai, H. Liu, **G. Li**, Y. Ren and K. Zhang, "Efficient and Error-Free Secret Key Generation Leveraging Sorted Indices Matching," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3465042. 
-- J Wang, S Gao,**G. Li**, K Gai, and B Xiao, “SAMCU: Secure and Anonymous Multi-Channel Updates in Payment-Channel Networks,”accepted by IEEE Transactions on Information Forensics and Security (TIFS), 2024.
-- H. Yang, B. Xie, J. Wang, **G. Li**, and B. Xiao, “Privacy-Preserving and Secure Decentralized Identity Management for Multiple Controllers,” in Proc. IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 8–12 Dec. 2024, pp. 1-6.
-  
-- S. Feng, Y. Cheng, **G. Li*** and B. Xiao, " Physical-layer Secret Key Generation with Energy Efficiency Maximization," in Proc. IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 8–12 Dec. 2024, pp. 1-6.
-  
-- H. Xu, K. Wong, W. New, **G. Li**, F. Ghadi, Y. Zhu, S. Jin, C. Chae, Y. Zhang, "Coding-Enhanced Cooperative Jamming for Secret Communication in Fluid Antenna Systems," in IEEE Communications Letters, doi: 10.1109/LCOMM.2024.3418338. 
+[1] CHU Z, LI G, MENG Q, et al. Privacy-preserving WiFi sensing in WSNs via CSI obfuscation[J]. Computers & Security, 2025, 157: 104594.  
+[2] HAN Q, DENG J, HUANG S, et al. Adversarial graph perturbation for smart contract vulnerability detection[C]//2025 IEEE Conference on Communications and Network Security (CNS). 2025: 1-9.  
+[3] HE C, MENG Q, CHEN Y, et al. An improved metric-active learning approach for few labeled radio frequency fingerprinting[J]. Computer Networks, 2025, 273: 111794.  
+[4] SHAHIRI V, LI G, BEHROOZI H. Physical layer group key generation with the aid of reconfigurable intelligent surfaces[M]. arXiv, 2025.  
+[5] HUANG Z, LI G, XU H, et al. Fluid antenna system-assisted physical layer secret key generation: arXiv:2509.15547[M]. arXiv, 2025.  
+[6] SUN Y, LI G, CHOU H, et al. Channel-robust RFF for low-latency 5g device identification in SIMO scenarios: arXiv:2511.08902[M]. arXiv, 2025.  
+[7] SUN C, LI G, WANG S, et al. Movable antenna enabled dual-scale beams for resilient communication, sensing, and security[J]. IEEE Wireless Communications, 2025: 1-8.  
+[8] LI G, ZHOU Y, SUN Y, et al. Endogenous security techniques for safeguarding next-generation spectrum usage at the physical layer[J]. IEEE Network, 2025, 39(6): 128-138.  
+[9] LUO H, LI G, BRIGHENTE A, et al. Channel-robust RF fingerprint identification for multi-antenna 5g user equipments[J]. IEEE Transactions on Information Forensics and Security, 2025, 20: 10761-10776.  
+[10] HOU Y, SUN H, LI G, et al. Securing wireless communications via channel reciprocity and dynamic constellation obfuscation[J]. IEEE Internet of Things Journal, 2025, 12(18): 37035-37049.  
+[11] CHEN J, LI H, LI G, et al. The optimization of XL-RIS-assisted physical layer key generation in near-field[C]//2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall). 2025: 1-6.  
+[12] HUO A, LI G, YANG L, et al. Enhancing wireless communication security with variable bloom filter-based physical-layer secure transmission[J]. IEEE Internet of Things Journal, 2025, 12(14): 28835-28849.  
+[13] XIAO Q, LI G, LIU Z, et al. Optimal subcarrier allocation scheme for physical-layer key generation in an OFDMA network[J]. IEEE Transactions on Information Forensics and Security, 2025, 20: 4929-4942.  
+[14] LI G, ZHOU Y, SUN Y, et al. Endogenous security techniques for safeguarding next-generation spectrum usage at the physical layer[J]. IEEE Network, 2025, 39(6): 128-138.  
+[15] CHU Z, LI G, MENG Q, et al. Defeating CSI obfuscation mechanisms: A study on unauthorized wi-fi sensing in wireless sensor network[J]. Computer Networks, 2025, 263: 111208.  
+[16] WU T, LI G, WANG J, et al. PPCA: Privacy-preserving continuous authentication scheme with consistency proof for zero-trust architecture networks[J]. IEEE Internet of Things Journal, 2025, 12(11): 17596-17609.  
+[17] DU Y, DAI H, LIU H, et al. Efficient and error-free secret key generation leveraging sorted indices matching[J]. IEEE Transactions on Mobile Computing, 2025, 24(2): 779-793.  
 
-- X. Yuan, Y. Jiang, **G. Li** and A. Hu, "Wireless Channel Key Generation Based on Multisubcarrier Phase Difference," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3418812. 
-
-- **G. Li** et al., "RIS-Jamming: Breaking Key Consistency in Channel Reciprocity-Based Key Generation," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 5090-5105, 2024.
- 
-- Y Du, H Dai, H Liu, Y Wang, **G Li**, Y Ren, Y Chen, and K Zhang, “Secret key generation based on manipulated channel measurement matching,” IEEE Transactions on Mobile Computing (TMC), 2024, DOI: 10.1109/TMC.2024.3364909.
- 
-- **G. Li**, Y. Ma, W. Wang, J. Zhang and H. Luo, "The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting," accepted by IEEE Internet Things J., 2024.
-
-- X. Zhang, **G. Li\***, J. Zhang, L. Peng, A. Hu, X. Wang, Enabling Deep Learning-based Physical-layer Secret Key Generation for FDD-OFDM Systems in Multi-Environments, accepted by IEEE Transactions on Vehicular Technology, 2024.
-
-- W. Wang, **G. Li\***, Z. Chu, H. Li and D. Faccio, "Two-Factor Authentication Approach Based on Behavior Patterns for Defeating Puppet Attacks," IEEE Sens. J., pp. 1-15, 2024.
-
-- H. Tang, **G. Li\***, T. Guo and A. Hu, "A VT-Code-Based Information Reconciliation Scheme for Secret Key Generation Using RSS," in IEEE Communications Letters, vol. 28, no. 4, pp. 783-787, April 2024, doi: 10.1109/LCOMM.2024.3362362.
 ## 2023
 - H. Luo, **G. Li\***, Y. Xing, J. Zhang and X. Wang, RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios," ICC 2023 - IEEE International Conference on Communications, Rome, Italy, 2023, pp. 3708-3713, doi: 10.1109/ICC45041.2023.10279540.
   
