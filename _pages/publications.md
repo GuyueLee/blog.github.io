@@ -95,36 +95,21 @@ author_profile: true
 
 
 ## 2019
-
--  **G. Li**, J. Yu, Y. Xing, and A. Hu. Location-invariant physical layer identification approach for WiFi devices. IEEE Access, pages 106974 - 106986, 2019.
-
--  J. Yu, A. Hu, F. Zhou, Y. Xing, Y. Yu, **G. Li**, and L. Peng. Radio frequency fingerprint identification based on denoising autoencoders. In Proc. 15th Int. Conf. Wireless Mobile Comput. Netw. Commun. (WiMob), pages 1–6, Barcelona, Spain, Oct. 2019.
-
--  Y. Xing, A. Hu, J. Yu, **G. Li**, L. Peng and F. Zhou, A Robust Radio Frequency Fingerprint Identification Scheme for LFM Pulse Radars, in Proc. IEEE Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), Barcelona, Spain, 21 - 23 Oct, 2019, pp. 1-6.
-
--  **G. Li**, Z. Zhang, Y. Yu and A. Hu, A Hybrid Information Reconciliation Method for Physical-layer Key Generation, Entropy. 2019; 21(7):688.
-
--  胡爱群,**李古月**, 彭林宁, 李涛. 融入思政的网络空间安全前沿技术教学探索[J]. 网络与信息安全学报, 2019, 5(3): 54-66.
-
--  B. Liu, A. Hu and **G. Li**, Secret Key Generation Scheme Based on the Channel Covariance Matrix Eigenvalues in FDD Systems, IEEE Communications Letters, vol. 23, no. 9, pp. 1493 - 1496, 2019.
-
--  J. Zhang, M. Ding, **G. Li** and A. Marshall, Key Generation Based on Large Scale Fading, IEEE Transactions on Vehicular Technology, vol. 68, no. 8, pp. 8222 – 8226, 2019. 
-
--  **G. Li**, C. Sun, J. Zhang, E. Jorswieck, B. Xiao and A Hu. Physical Layer Key Generation in 5G and Beyond Wireless Communications: Challenges and Opportunities. Entropy. 2019; 21(5):497.
-
--  J. Yu, A. Hu, **G. Li** and L. Peng, A Robust RF Fingerprinting Approach Using Multi-Sampling Convolutional Neural Network, in IEEE Internet of Things Journal, vol. 6, no. 4, pp. 6786-6799, Aug. 2019.
-
--  X. Zhou, A. Hu, **G. Li**, L. Peng, Y. Xing and J. Yu, Design of a Robust RF Fingerprint Generation and Classification Scheme for Practical Device Identification, in Proc. IEEE Conference on Communications and Network Security (CNS), Washington, D.C., USA, 10-12 Jun. 2019, pp. 1-9.
-
--  **G. Li**, L. Hu, and A. Hu, Lightweight Group Secret Key Generation Leveraging Non-Reconciled Received Signal Strength in Mobile Wireless Networks, in Proc. IEEE ICC Workshops (WPLS), Shanghai, China, 20-24. May, 2019, pp. 1-6.
-
--  Z. Zhang, **G. Li** and A. Hu, An Adaptive Information Reconciliation Protocol for Physical-layer Based Secret Key Generation, in Proc. IEEE 89th Vehicular Technology Conference: VTC2019-Spring, Kuala Lumpur, Malaysia, 28 April – 1 May, 2019, pp. 1-5.
-
--  J. Yu, A. Hu, **G. Li** and L. Peng, A Multi-Sampling Convolutional Neural Network-Based RF Fingerprinting Approach for Low-Power Devices, in Proc. IEEE INFOCOM Workshop Internet of Things for Adversarial Environments (IoTAE), Paris, France, 29 April - 2 May, 2019, pp.1-6.
-
--  L. Peng, **G. Li**, J. Zhang, R. Woods, M. Liu, and A. Hu, An Investigation of Using Loop-back Mechanism for Channel Reciprocity Enhancement in Secret Key Generation,  IEEE Transactions on Mobile Computing, vol.18, no.3, pp.507-519, 2019.
-
-
+- **LI G**, YU J, XING Y, et al. Location-invariant physical layer identification approach for WiFi devices[J]. IEEE Access, 2019, 7: 106974106986.
+- YU J, HU A, ZHOU F, et al. Radio frequency fingerprint identification based on denoising autoencoders[C]//2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob). 2019: 1-6.
+- LIU B, HU A, **LI G**. Secret key generation scheme based on the channel covariance matrix eigenvalues in FDD systems[J]. IEEE Communications Letters, 2019, 23(9): 1493-1496.
+- ZHANG J, DING M, **LI G**, et al. Key generation based on large scale fading[J]. IEEE Transactions on Vehicular Technology, 2019, 68(8): 8222-8226.
+- PENG L, **LI G**, ZHANG J, et al. An investigation of using loop-back mechanism for channel reciprocity enhancement in secret key generation[J]. IEEE Transactions on Mobile Computing, 2019, 18(3): 507-519.
+- YU J, HU A, **LI G**, et al. A multi-sampling convolutional neural network-based RF fingerprinting approach for low-power devices[C]// IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS). 2019: 1-6.
+- **LI G**, ZHANG Z, YU Y, et al. A hybrid information reconciliation method for physical layer key generation[J]. Entropy, 2019, 21(7).
+- XING Y, HU A, YU J, et al. A robust radio frequency fingerprint identification scheme for LFM pulse radars[C]//2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob). 2019: 1-6.
+- ZHOU X, HU A, **LI G**, et al. Design of a robust RF fingerprint generation and classification scheme for practical device identification [C]//2019 IEEE Conference on Communications and Network Security (CNS). 2019: 196-204.
+- **LI G**, HU L, HU A. Lightweight group secret key generation leveraging non-reconciled received signal strength in mobile wireless networks[C]// 2019 IEEE International Conference on Communications Workshops (ICC Workshops). 2019: 1-6.
+- **LI G**, SUN C, ZHANG J, et al. Physical layer key generation in 5g and beyond wireless communications: Challenges and opportunities[J]. Entropy, 2019, 21(5).
+- 胡爱群, **李古月**, 彭林宁, 等. 融入思政的网络空间安全前沿技术教学探索[J]. 网络与信息安全学报, 2019, 5(3): 54-66.
+- XING Y, HU A, YU J, et al. A robust radio frequency fingerprint identification scheme for LFM pulse radars[C]//2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob). 2019: 1-6.
+- YU J, HU A, **LI G**, et al. A robust RF fingerprinting approach using multisampling convolutional neural network[J]. IEEE Internet of Things Journal, 2019, 6(4): 6786-6799.
+- ZHANG Z, **LI G**, HU A. An adaptive information reconciliation protocol for physical-layer based secret key generation[C]//2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring). 2019: 1-5.
 
 
 ## 2018年
