@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-## 2025
+## 2025年
 - CHU Z, **LI G**, MENG Q, et al. Privacy-preserving WiFi sensing in WSNs via CSI obfuscation[J]. Computers & Security, 2025, 157: 104594.
 - HE C, MENG Q, CHEN Y, et al. An improved metric-active learning approach for few labeled radio frequency fingerprinting[J]. Computer Networks, 2025, 273: 111794.
 - SHAHIRI V, **LI G**, BEHROOZI H. Physical layer group key generation with the aid of reconfigurable intelligent surfaces[M]. arXiv, 2025.
@@ -32,7 +32,7 @@ author_profile: true
 - **李古月**, 张子豪, 毛承海, 等. 基于累积量与深度学习融合的水下调制识别模型[J]. 信息网络安全, 2025, 25(10): 1554-1569.
 - HAN Q, DENG J, HUANG S, et al. Adversarial graph perturbation for smart contract vulnerability detection[C]//2025 IEEE Conference on Communications and Network Security (CNS). 2025: 1-9.
   
-## 2024
+## 2024年
 - WANG J, GAO S, **LI G**, et al. SAMCU: Secure and anonymous multichannel updates in payment channel networks[J]. IEEE Transactions on Information Forensics and Security, 2024, 19: 9115-9128.
 - YUAN X, JIANG Y, **LI G**, et al. Wireless channel key generation based on multisubcarrier phase difference[J]. IEEE Internet of Things Journal, 2024, 11(20): 32939-32955.
 - **LI G**, STAAT P, LI H, et al. RIS-jamming: Breaking key consistency in channel reciprocity-based key generation[J]. IEEE Transactions on Information Forensics and Security, 2024, 19: 5090-5105.
@@ -50,7 +50,8 @@ author_profile: true
 - FENG S, CHENG Y, **LI G**, et al. Physical-layer secret key generation with energy efficiency maximization[C]//GLOBECOM 2024 - 2024 IEEE Global Communications Conference. 2024: 1713-1718.
 - YANG H, XIE B, WANG J, et al. Privacy-preserving and secure decentralized identity management for multiple controllers[C]// GLOBECOM 2024 - 2024 IEEE Global Communications Conference. 2024: 541-546.
 - TANG H, **LI G**, GUO T, et al. A VT-code-based information reconciliation scheme for secret key generation using RSS[J]. IEEE Communications Letters, 2024, 28(4): 783-787.
-## 2023
+
+## 2023年
 - LUO H, **LI G**, XING Y, et al. RelativeRFF: Multi-antenna device identification in multipath propagation scenarios[C]//ICC 2023 - IEEE International Conference on Communications. 2023: 3708-3713.
 - HU L, SUN C, **LI G**, et al. Reconfigurable intelligent surface-aided secret key generation in multi-cell systems[J]. IEEE Transactions on Communications, 2023, 71(11): 6499-6513.
 - MENG Q, **LI G**, SHI J, et al. Enhancing RF fingerprinting with a simulated attack detection strategy for few labeled signals[C]//2023 IEEE 23rd International Conference on Communication Technology (ICCT). 2023: 281-285.
@@ -58,7 +59,7 @@ author_profile: true
 - LI H, **LI G**, HU L, et al. RIS-assisted physical-layer key generation with discrete phase shift optimization[C]//2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall). 2023: 1-5.
 - SUN H, **LI G**, LI H, et al. A physical-layer key generation scheme for non-square channel matrices based on PMI[C]//2023 IEEE/CIC International Conference on Communications in China (ICCC). 2023: 1-6.
   
-## 2022
+## 2022年
 - **LI G**, SHI J, YU J, et al. E-fin: Enabling RF fingerprinting for realworld aircraft with few labeled ADS-b signals[Z].
 - HU L, **LI G**, QIAN X, et al. Joint transmit and reflective beamforming for RIS-assisted secret key generation[C]//GLOBECOM 2022 - 2022 IEEE Global Communications Conference. 2022: 2352-2357.
 - HUANG Z, **LI G**, HU A, et al. Recognizing automotive ethernet device by extracting fingerprint from power spectrum[C]//2022 IEEE 22nd International Conference on Communication Technology (ICCT). 2022: 1442-1446.
@@ -70,7 +71,8 @@ author_profile: true
 - YANG J, GAO S, **LI G**, et al. Reducing gas consumption of tornado cash and other smart contracts in ethereum[C]//2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). 2022: 921-926.
 - 胡奥婷, 胡爱群, 胡韵, 等. 机器学习中差分隐私的数据共享及发布: 技术､应用和挑战[J]. 信息安全学报, 2022, 7(4): 1-16.
 - **李古月**, 胡爱群. 网络空间安全专业课程思政教学探索与实践--以东南大学“网络空间安全新进展”课程为例[J]. 网络与信息安全学报, 2022, 8(2): 183-189.
-## 2021
+
+## 2021年
 - **LI G**, XU Y, XU W, et al. Robust key generation with hardware mismatch for secure MIMO communications[J]. IEEE Transactions on Information Forensics and Security, 2021, 16: 5264-5278.
 - LUO H, **LI G**, HU L. On the security of RIS-assisted manipulating attack in MISO systems[C]//2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall). 2021: 1-5.
 - HU L, **LI G**, LUO H, et al. On the RIS manipulating attack and its countermeasures in physical-layer key generation[C]//2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall). 2021: 1-5.
@@ -84,8 +86,7 @@ author_profile: true
 - ZHOU X, HU A, **LI G**, et al. A robust radio-frequency fingerprint extraction scheme for practical device recognition[J]. IEEE Internet of Things Journal, 2021, 8(14): 11276-11289.
 
 
-## 2020
-
+## 2020年
 - CHEN Y, **LI G**, SUN C, et al. Beam-domain secret key generation for multi-user massive MIMO networks[C]//ICC 2020 - 2020 IEEE International Conference on Communications (ICC). 2020: 1-6.
 - ZHANG J, **LI G**, MARSHALL A, et al. A new frontier for IoT security emerging from three decades of key generation relying on wireless channels[J]. IEEE Access, 2020, 8: 138406-138446.
 - XING Y, HU A, ZHANG J, et al. Design of a robust radio-frequency fingerprint identification scheme for multimode LFM radar[J]. IEEE Internet of Things Journal, 2020, 7(10): 10581-10593.
@@ -95,7 +96,7 @@ author_profile: true
 - SUN C, YANG H, **LI G**. AmpRmdr: Remainder-based secret key generation using wireless channel amplitude[J]. IEEE Access, 2020, 8: 228178228187.
 
 
-## 2019
+## 2019年
 - **LI G**, YU J, XING Y, et al. Location-invariant physical layer identification approach for WiFi devices[J]. IEEE Access, 2019, 7: 106974106986.
 - YU J, HU A, ZHOU F, et al. Radio frequency fingerprint identification based on denoising autoencoders[C]//2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob). 2019: 1-6.
 - LIU B, HU A, **LI G**. Secret key generation scheme based on the channel covariance matrix eigenvalues in FDD systems[J]. IEEE Communications Letters, 2019, 23(9): 1493-1496.
@@ -125,8 +126,6 @@ author_profile: true
 - PENG L, **LI G**, HU A. Channel reciprocity improvement of secret key generation with loop-back transmissions[C]//2017 IEEE 17th International Conference on Communication Technology (ICCT). 2017: 193-198.
 - **LI G**, HU A, ZHANG J, et al. Security analysis of a novel artificial randomness approach for fast key generation[C]//GLOBECOM 2017 - 2017 IEEE Global Communications Conference. 2017: 1-6.
 - **李古月**, 胡爱群. 基于K-L变换的无线信道密钥提取方法[J]. 东南大学学报(自然科学版), 2017, 47(2): 203-208.
-
-
 
 
 ## 2016年及之前
