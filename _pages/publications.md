@@ -129,27 +129,16 @@ author_profile: true
 
 
 ## 2016年及之前
-
--  **G. Li**, and A. Hu, Virtual MIMO-based Cooperative Beamforming and Jamming Scheme for the Clustered Wireless Sensor Network Security, in Proc. of IEEE International Conference on Computer and Communications (ICCC), Chengdu, 14-17 Oct. 2016, pp.2246-2250.
-
--  **G. Li**, and A. Hu, MISO Secrecy Transmission via Designing Artificial Noise by Receiver under Perfect and Imperfect CSI”, in Proc. of IEEE International Conference on Computer and Communications (ICCC), Chengdu, 14-17 Oct. 2016, pp.2664-2668.
-
--  **G. Li**, A. Hu, L. Peng, and C. Sun, “The optimal preprocessing approach for secret key generation from OFDM channel measurements,” in Proc.IEEE GLOBECOM Workshop Trusted Commun. with Physical Layer Security (TCPLS), Washington DC, Dec. 2016, pp.1-6.
-
-
--  **G. Li**, A. Hu, Y. Zou, L. Peng, M. Valkama, A Novel Transform for Secret Key Generation in Time-varying TDD Channel under Hardware Fingerprint Deviation, in Proc.IEEE 82th Vehicular Technology Conference (VTC2015-Fall), Boston, Sep. 2015, pp.1-5.
-
--  **G. Li**, A. Hu and Y. Huang, A Novel Artificial Noise Aided Security Scheme to Resist Blind Source Separation Attacks, Chinese Science Bulletin, 2014,59(32):4225-4234.
-
--  **李古月**,胡爱群,石乐.无线信道的密钥生成方法[J]. 密码学报, 2014, 1(3): 211–224.
-
--  胡爱群,**李古月**.无线通信物理层安全方法综述[J]. 数据采集与处理 , 2014, 29(3): 341–350.
-
--  **G. Li** and A. Hu, An Approach to Resist Blind Source Separation Attacks of Speech Signals, IET CSC2014: 1-7.
-
--  M. Xue, A. Hu, Yi. Huang and **G. Li**, Monte Carlo based Test Pattern Generation for Hardware Trojan Detection, IEEE DASC2013:131 - 136.
-
-
+- **LI G**, SHI J, YU J, et al. E-fin: Enabling RF fingerprinting for realworld aircraft with few labeled ADS-b signals[Z].
+- **LI G**, HU A. MISO secrecy transmission via designing artificial noise by receiver under perfect and imperfect CSI[C]//2016 2nd IEEE International Conference on Computer and Communications (ICCC). 2016: 2664-2668.
+- MINGFU X, AIQUN H, YI H, et al. Monte carlo based test pattern generation for hardware trojan detection[C]//2013 IEEE 11th International Conference on Dependable, Autonomic and Secure Computing. 2013: 131-136.
+- **LI G**, HU A, PENG L, et al. The optimal preprocessing approach for secret key generation from OFDM channel measurements[C]//2016 IEEE Globecom Workshops (GC Wkshps). 2016: 1-6.
+- **LI G**, HU A. Virtual MIMO-based cooperative beamforming and jamming scheme for the clustered wireless sensor network security[C]//2016 2nd IEEE International Conference on Computer and Communications (ICCC). 2016: 2246-2250.
+- **李古月**, 胡爱群, 石乐. 无线信道的密钥生成方法[J]. 密码学报, 2014, 1 (3): 211-224.
+- 胡爱群, **李古月**. 无线通信物理层安全方法综述[J]. 数据采集与处理, 2014, 29(3): 341-350.
+- **LI G**, HU A, HUANG Y. A novel artificial noise aided security scheme to resist blind source separation attacks[J]. Chinese Science Bulletin, 2014, 59(32): 4225-4234.
+- **LI G**, HU A, ZOU Y, et al. A novel transform for secret key generation in time-varying TDD channel under hardware fingerprint deviation[C]//2015 IEEE 82nd Vehicular Technology Conference (VTC2015Fall). 2015: 1-5.
+- **LI G**, HU A. An approach to resist blind source separation attacks of speech signals[J]. 2014 Communications Security Conference (CSC 2014): 13.
 
 
 ## 专利
