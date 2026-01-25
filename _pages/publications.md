@@ -14,6 +14,7 @@ author_profile: true
 - XIE L, WANG P, SHEN G, et al. Secure communication in MIMOME movable-antenna systems with statistical eavesdropper CSI: arXiv:2601.14755[M]. arXiv, 2026.
 
 ## 2025年
+- MAO C, LIU L, YU Z, et al. Underwater modulation recognition via attention fusion of CQT and ResNet features[C]//2025 8th International Conference on Information Communication and Signal Processing (ICICSP). 2025: 710-714.
 - CHU Z, **LI G**, MENG Q, et al. Privacy-preserving WiFi sensing in WSNs via CSI obfuscation[J]. Computers & Security, 2025, 157: 104594.
 - HE C, MENG Q, CHEN Y, et al. An improved metric-active learning approach for few labeled radio frequency fingerprinting[J]. Computer Networks, 2025, 273: 111794.
 - SHAHIRI V, **LI G**, BEHROOZI H. Physical layer group key generation with the aid of reconfigurable intelligent surfaces[M]. arXiv, 2025.
