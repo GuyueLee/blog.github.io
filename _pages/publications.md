@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+## 2026年
+- XIE L, WANG P, SHEN G, et al. Secure communication in MIMOME movable-antenna systems with statistical eavesdropper CSI: arXiv:2601.14755[M]. arXiv, 2026.
+
 ## 2025年
 - CHU Z, **LI G**, MENG Q, et al. Privacy-preserving WiFi sensing in WSNs via CSI obfuscation[J]. Computers & Security, 2025, 157: 104594.
 - HE C, MENG Q, CHEN Y, et al. An improved metric-active learning approach for few labeled radio frequency fingerprinting[J]. Computer Networks, 2025, 273: 111794.
