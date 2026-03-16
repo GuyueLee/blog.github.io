@@ -9,8 +9,8 @@ redirect_from:
 
 
 {% include base_path %}
-# Guyue Li
-## Personal Details
+
+# Personal Details
 - **Full Name**: Guyue Li
 - **Date of Birth**: 1989/09/06
 - **Nationality**: Chinese
@@ -21,7 +21,7 @@ redirect_from:
 - **Google Scholar**: https://scholar.google.com/citations?hl=zh-CN&user=dsi9hPEAAAAJ
 - **ResearchGate**: https://www.researchgate.net/profile/Guyue-Li-2
 
-## Professional Appointments
+# Professional Appointments
 | Time Period | Position & Affiliation |
 |-------------|------------------------|
 | 2020 - present | Associate Professor & Dean of the Information Security Department, School of Cyberspace Security, Southeast University |
@@ -29,26 +29,26 @@ redirect_from:
 | 2019 - 2020 | Visiting Scholar, École supérieure d'ingénieurs en électronique et électrotechnique |
 | 2017 - 2020 | Lecturer, School of Cyberspace Security, Southeast University |
 
-## Academic Qualifications
+# Academic Qualifications
 | Time | Institution & Degree |
 |------|----------------------|
 | May 2017 | Southeast University, Doctor of Science in School of Information & Communication Science |
 | August 2014 | Tampere University of Technology, Visiting Student with the Department of Electrical Engineering |
 | June 2011 | Southeast University, Bachelor of Information Engineering in Chien-Shiung WU Honors College |
 
-## Professional Service
-### Editorial Roles
+# Professional Service
+## Editorial Roles
 - 2023 - present: Editor, IEEE Communication Letters
 - 2023 - present: Associate Editor, EURASIP Journal on Wireless Communications and Networking
 
-### Conference Roles
+## Conference Roles
 - 2025: Co-Chair, IEEE VTC-Fall 2025 Workshop; Co-Chair, IEEE PIMRC 2025
 - 2024: Co-Chair, IEEE IoTCIT 2024 Workshop
 - 2023: Co-Chair, IEEE VTC-Fall 2023 Workshop
 - 2022: Co-Chair, IEEE VTC-Fall 2022 Workshop; Invited Speaker, IEEE ICCT 2022
 - 2021: Co-Chair, IEEE VTC-Fall 2021 Workshop
 
-## Research Projects
+# Research Projects
 | Time Period | Project Name & Funding | Role | Status |
 |-------------|------------------------|------|--------|
 | 2023 - 2025 | Subproject of National Key R&D Program, "Endogenous Security and Privacy Protection Technologies for 6G Mobile Communications: Research and Prototype Verification of Low-Latency Physical Layer Authentication Methods" (0.585 million CNY) | Participant | Ongoing |
@@ -66,7 +66,7 @@ redirect_from:
 | 2016 - 2019 | Youth Project of Jiangsu Natural Science Foundation, BK20160692, "Research on Wireless Communication Security Technology Based on Physical Layer Characteristics" (0.2 million CNY) | Participant | Completed |
 | 2016 - 2019 | General Program, NSFC, 61571110, "Research on Physical Layer Security Technologies for Future Mobile Communications" (0.57 million CNY) | Participant | Completed |
 
-## Honors
+# Honors
 | Year | Honor Title |
 |------|-------------|
 | 2025 | World's Top 2% Scientists compiled by Stanford University in collaboration with Elsevier |
@@ -79,8 +79,8 @@ redirect_from:
 | 2014 | National Scholarship for PhD Students |
 | 2011 | Outstanding Graduate of Southeast University (Top 5%) |
 
-## Publications
-### Selected/Recent Publications
+# Publications
+## Selected/Recent Publications
    [1] Q. Xiao, G. Li, Z. Liu and A. Hu, "Optimal Subcarrier Allocation Scheme for PhysicalLayer Key Generation in an OFDMA Network," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 4929-4942, 2025
   [2] G. Li et al., "RIS-Jamming: Breaking Key Consistency in Channel Reciprocity-Based Key Generation," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 5090-5105, 2024
   [3] L. Hu, G. Li, X. Qian, A. Hu and D. W. K. Ng, "Reconfigurable Intelligent SurfaceAssisted Secret Key Generation in Spatially Correlated Channels," in IEEE Transactions on Wireless Communications, vol. 23, no. 3, pp. 2153-2166, March 2024
