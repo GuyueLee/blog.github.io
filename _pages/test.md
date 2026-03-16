@@ -81,16 +81,16 @@ redirect_from:
 
 ## Publications
 ### Selected/Recent Publications
-[1] Q. Xiao, G. Li, Z. Liu and A. Hu, "Optimal Subcarrier Allocation Scheme for PhysicalLayer Key Generation in an OFDMA Network," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 4929-4942, 2025
-[2] G. Li et al., "RIS-Jamming: Breaking Key Consistency in Channel Reciprocity-Based Key Generation," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 5090-5105, 2024
-[3] L. Hu, G. Li, X. Qian, A. Hu and D. W. K. Ng, "Reconfigurable Intelligent SurfaceAssisted Secret Key Generation in Spatially Correlated Channels," in IEEE Transactions on Wireless Communications, vol. 23, no. 3, pp. 2153-2166, March 2024
-[4] G. Li, H. Luo, J. Yu, A. Hu and J. Wang, "Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications," in IEEE Wireless Communications, vol. 31, no. 1, pp. 118124, February 2024
-[5] Y. Sun, G. Li, H. Luo, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition," in IEEE Wireless Communications Letters, vol. 12, no. 9, pp. 1583-1587, Sept. 2023
-[6] L. Hu, C. Sun, G. Li, A. Hu and D. W. K. Ng, "Reconfigurable Intelligent Surface-Aided Secret Key Generation in Multi-Cell Systems," in IEEE Transactions on Communications, vol. 71, no. 11, pp. 6499-6513, Nov. 2023
-[7] G. Li, C. Sun, W. Xu, M. D. Renzo and A. Hu, "On Maximizing the Sum Secret Key Rate for Reconfigurable Intelligent Surface-Assisted Multiuser Systems," in IEEE Transactions on Information Forensics and Security, vol. 17, pp. 211-225, 2022
-[8] G. Li, H. Yang, J. Zhang, H. Liu and A. Hu, "Fast and Secure Key Generation with Channel Obfuscation in Slowly Varying Environments," IEEE INFOCOM 2022 - IEEE Conference on Computer Communications, London, United Kingdom, 2022, pp. 1-10
-[9] G. Li, C. Sun, E. A. Jorswieck, J. Zhang, A. Hu and Y. Chen, "Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks," in IEEE Transactions on Information Forensics and Security, vol. 16, pp. 968-982, 2021
-[10] G. Li, A. Hu, J. Zhang, L. Peng, C. Sun and D. Cao, "High-Agreement Uncorrelated Secret Key Generation Based on Principal Component Analysis Preprocessing," in IEEE Transactions on Communications, vol. 66, no. 7, pp. 3022-3034, July 2018
+   [1] Q. Xiao, G. Li, Z. Liu and A. Hu, "Optimal Subcarrier Allocation Scheme for PhysicalLayer Key Generation in an OFDMA Network," in IEEE Transactions on Information Forensics and Security, vol. 20, pp. 4929-4942, 2025
+  [2] G. Li et al., "RIS-Jamming: Breaking Key Consistency in Channel Reciprocity-Based Key Generation," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 5090-5105, 2024
+  [3] L. Hu, G. Li, X. Qian, A. Hu and D. W. K. Ng, "Reconfigurable Intelligent SurfaceAssisted Secret Key Generation in Spatially Correlated Channels," in IEEE Transactions on Wireless Communications, vol. 23, no. 3, pp. 2153-2166, March 2024
+  [4] G. Li, H. Luo, J. Yu, A. Hu and J. Wang, "Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications," in IEEE Wireless Communications, vol. 31, no. 1, pp. 118124, February 2024
+  [5] Y. Sun, G. Li, H. Luo, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition," in IEEE Wireless Communications Letters, vol. 12, no. 9, pp. 1583-1587, Sept. 2023
+  [6] L. Hu, C. Sun, G. Li, A. Hu and D. W. K. Ng, "Reconfigurable Intelligent Surface-Aided Secret Key Generation in Multi-Cell Systems," in IEEE Transactions on Communications, vol. 71, no. 11, pp. 6499-6513, Nov. 2023
+  [7] G. Li, C. Sun, W. Xu, M. D. Renzo and A. Hu, "On Maximizing the Sum Secret Key Rate for Reconfigurable Intelligent Surface-Assisted Multiuser Systems," in IEEE Transactions on Information Forensics and Security, vol. 17, pp. 211-225, 2022
+  [8] G. Li, H. Yang, J. Zhang, H. Liu and A. Hu, "Fast and Secure Key Generation with Channel Obfuscation in Slowly Varying Environments," IEEE INFOCOM 2022 - IEEE Conference on Computer Communications, London, United Kingdom, 2022, pp. 1-10
+  [9] G. Li, C. Sun, E. A. Jorswieck, J. Zhang, A. Hu and Y. Chen, "Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks," in IEEE Transactions on Information Forensics and Security, vol. 16, pp. 968-982, 2021
+  [10] G. Li, A. Hu, J. Zhang, L. Peng, C. Sun and D. Cao, "High-Agreement Uncorrelated Secret Key Generation Based on Principal Component Analysis Preprocessing," in IEEE Transactions on Communications, vol. 66, no. 7, pp. 3022-3034, July 2018
 
 ### Full List
 #### 2026
