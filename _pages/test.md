@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "test"
+title: "Curriculum Vitae"
 permalink: /test/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 
 {% include base_path %}
-# Guyue Li - Curriculum Vitae & Short Bio
+# Guyue Li
 ## Personal Details
 - **Full Name**: Guyue Li
 - **Date of Birth**: 1989/09/06
