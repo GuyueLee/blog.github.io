@@ -31,11 +31,11 @@ redirect_from:
 | 2017 - 2020       | Lecturer<br>School of Cyberspace Security, Southeast University                          |
 
 # Academic Qualifications
-| Time | Institution & Degree |
-|------|----------------------|
-| May 2017 | Southeast University, Doctor of Science in School of Information & Communication Science |
-| August 2014 | Tampere University of Technology, Visiting Student with the Department of Electrical Engineering |
-| June 2011 | Southeast University, Bachelor of Information Engineering in Chien-Shiung WU Honors College |
+| Time          | Institution & Degree                                                                                     |
+|---------------|----------------------------------------------------------------------------------------------------------|
+| May 2017      | Southeast University, Doctor of Science in School of Information & Communication Science                 |
+| August 2014   | Tampere University of Technology, Visiting Student with the Department of Electrical Engineering         |
+| June 2011     | Southeast University, Bachelor of Information Engineering in Chien-Shiung WU Honors College              |
 
 # Professional Service
 ## Editorial Roles
