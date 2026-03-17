@@ -22,21 +22,48 @@ redirect_from:
 - **ResearchGate**: https://www.researchgate.net/profile/Guyue-Li-2
 
 # PROFESSIONAL APPOINTMENTS
-
-| Time Period       | Position & Affiliation                                                                 |
-|-------------------|----------------------------------------------------------------------------------------|
-| 2020 - present    | Associate Professor & Dean of the Information Security Department<br>School of Cyberspace Security, Southeast University |
-| 2024 - 2024       | Research Fellow<br>The Hong Kong Polytechnic University                                |
-| 2019 - 2020       | Visiting Scholar<br>École supérieure d'ingénieurs en électronique et électrotechnique   |
-| 2017 - 2020       | Lecturer<br>School of Cyberspace Security, Southeast University                          |
+<table width="100%" border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th width="20%" align="left">Time Period</th>
+    <th width="80%" align="left">Position & Affiliation</th>
+  </tr>
+  <tr>
+    <td>2020 - present</td>
+    <td>Associate Professor & Dean of the Information Security Department<br>School of Cyberspace Security, Southeast University</td>
+  </tr>
+  <tr>
+    <td>2024 - 2024</td>
+    <td>Research Fellow<br>The Hong Kong Polytechnic University</td>
+  </tr>
+  <tr>
+    <td>2019 - 2020</td>
+    <td>Visiting Scholar<br>École supérieure d'ingénieurs en électronique et électrotechnique</td>
+  </tr>
+  <tr>
+    <td>2017 - 2020</td>
+    <td>Lecturer<br>School of Cyberspace Security, Southeast University</td>
+  </tr>
+</table>
 
 # Academic Qualifications
-
-| Time          | Institution & Degree                                                                                     |
-|---------------|----------------------------------------------------------------------------------------------------------|
-| May 2017      | Southeast University, Doctor of Science in School of Information & Communication Science                 |
-| August 2014   | Tampere University of Technology, Visiting Student with the Department of Electrical Engineering         |
-| June 2011     | Southeast University, Bachelor of Information Engineering in Chien-Shiung WU Honors College              |
+<table width="100%" border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th width="15%" align="left">Time</th>
+    <th width="85%" align="left">Institution & Degree</th>
+  </tr>
+  <tr>
+    <td>May 2017</td>
+    <td>Southeast University, Doctor of Science in School of Information & Communication Science</td>
+  </tr>
+  <tr>
+    <td>August 2014</td>
+    <td>Tampere University of Technology, Visiting Student with the Department of Electrical Engineering</td>
+  </tr>
+  <tr>
+    <td>June 2011</td>
+    <td>Southeast University, Bachelor of Information Engineering in Chien-Shiung WU Honors College</td>
+  </tr>
+</table>
 
 # Professional Service
 
