@@ -272,57 +272,57 @@ redirect_from:
 - X. Zhou, A. Hu, **G. Li**, L. Peng, Y. Xing and J. Yu, "A Robust Radio-Frequency Fingerprint Extraction Scheme for Practical Device Recognition," in IEEE Internet of Things Journal, vol. 8, no. 14, pp. 11276-11289, 15 July 15, 2021
 
 ### 2020
-- C. Sun, H. Yang and G. Li, "AmpRmdr: Remainder-Based Secret Key Generation Using Wireless Channel Amplitude," in IEEE Access, vol. 8, pp. 228178-228187, 2020
-- C. He, Y. Xu, J. Shi, C. Lei and G. Li, "Detection Algorithm of the Mimicry Attack and Its Implementation in the ZigBee Platform," 2020 IEEE 20th International Conference on Communication Technology (ICCT), Nanning, China, 2020, pp. 1083-1088
-- G. Li, C. Sun, E. A. Jorswieck, J. Zhang, A. Hu and Y. Chen, "Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks," in IEEE Transactions on Information Forensics and Security, vol. 16, pp. 968-982, 2021
-- C. Sun and G. Li, "Power Allocation and Beam Scheduling for Multi-User Massive MIMO Secret Key Generation," in IEEE Access, vol. 8, pp. 164580-164592, 2020
-- J. Zhang, G. Li, A. Marshall, A. Hu and L. Hanzo, "ANew Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels," in IEEE Access, vol. 8, pp. 138406-138446, 2020
-- Y. Xing, T. Wang, F. Zhou, A. Hu, G. Li and L. Peng, "EVAL Cane: Nonintrusive Monitoring Platform With a Novel Gait-Based User-Identification Scheme," in IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1-15, 2021, Art no. 2500115
-- G. Li, Z. Zhang, J. Zhang and A. Hu, "Encrypting Wireless Communications on the Fly Using One-Time Pad and Key Generation," in IEEE Internet of Things Journal, vol. 8, no. 1, pp. 357-369, 1 Jan 1, 2021
-- Y. Xing, A. Hu, J. Zhang, J. Yu, G. Li and T. Wang, "Design of a Robust Radio-Frequency Fingerprint Identification Scheme for Multimode LFM Radar," in IEEE Internet of Things Journal, vol. 7, no. 10, pp. 10581-10593, Oct. 2020
-- Y. Chen, G. Li, C. Sun, J. Zhang, E. Jorswieck and B. Xiao, "Beam-Domain Secret Key Generation for Multi-User Massive MIMO Networks," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6
-- G. Li, Jiabao Yu, and Aiqun Hu. "Research on physical-layer security based on device and channel characteristics."Journal of Cryptologic Research7.2 (2020): 224-248.
-- Yuan Rui, Peng Linning, G. Li, et al. Research on the Performance of Wireless Channel Key Generation in Different Environments [J]. Journal of Cryptologic Research, 2020, 7(2): 261-273.
+- C. Sun, H. Yang and **G. Li**, "AmpRmdr: Remainder-Based Secret Key Generation Using Wireless Channel Amplitude," in IEEE Access, vol. 8, pp. 228178-228187, 2020
+- C. He, Y. Xu, J. Shi, C. Lei and **G. Li**, "Detection Algorithm of the Mimicry Attack and Its Implementation in the ZigBee Platform," 2020 IEEE 20th International Conference on Communication Technology (ICCT), Nanning, China, 2020, pp. 1083-1088
+- **G. Li**, C. Sun, E. A. Jorswieck, J. Zhang, A. Hu and Y. Chen, "Sum Secret Key Rate Maximization for TDD Multi-User Massive MIMO Wireless Networks," in IEEE Transactions on Information Forensics and Security, vol. 16, pp. 968-982, 2021
+- C. Sun and **G. Li**, "Power Allocation and Beam Scheduling for Multi-User Massive MIMO Secret Key Generation," in IEEE Access, vol. 8, pp. 164580-164592, 2020
+- J. Zhang, **G. Li**, A. Marshall, A. Hu and L. Hanzo, "ANew Frontier for IoT Security Emerging From Three Decades of Key Generation Relying on Wireless Channels," in IEEE Access, vol. 8, pp. 138406-138446, 2020
+- Y. Xing, T. Wang, F. Zhou, A. Hu, **G. Li** and L. Peng, "EVAL Cane: Nonintrusive Monitoring Platform With a Novel Gait-Based User-Identification Scheme," in IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1-15, 2021, Art no. 2500115
+- **G. Li**, Z. Zhang, J. Zhang and A. Hu, "Encrypting Wireless Communications on the Fly Using One-Time Pad and Key Generation," in IEEE Internet of Things Journal, vol. 8, no. 1, pp. 357-369, 1 Jan 1, 2021
+- Y. Xing, A. Hu, J. Zhang, J. Yu, **G. Li** and T. Wang, "Design of a Robust Radio-Frequency Fingerprint Identification Scheme for Multimode LFM Radar," in IEEE Internet of Things Journal, vol. 7, no. 10, pp. 10581-10593, Oct. 2020
+- Y. Chen, **G. Li**, C. Sun, J. Zhang, E. Jorswieck and B. Xiao, "Beam-Domain Secret Key Generation for Multi-User Massive MIMO Networks," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), Dublin, Ireland, 2020, pp. 1-6
+- **G. Li**, Jiabao Yu, and Aiqun Hu. "Research on physical-layer security based on device and channel characteristics."Journal of Cryptologic Research7.2 (2020): 224-248.
+- Yuan Rui, Peng Linning, **G. Li**, et al. Research on the Performance of Wireless Channel Key Generation in Different Environments [J]. Journal of Cryptologic Research, 2020, 7(2): 261-273.
 
 ### 2019
-- Y. Xing, A. Hu, J. Yu, G. Li, L. Peng and F. Zhou, "A Robust Radio Frequency Fingerprint Identification Scheme for LFM Pulse Radars," 2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), Barcelona, Spain, 2019, pp. 1-6
-- J. Yu, A. Hu; F. Zhou; Y. Xing; Y. Yu; G. Li., "Radio Frequency Fingerprint Identification Based on Denoising Autoencoders," 2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), Barcelona, Spain, 2019, pp. 1-6
-- L. Yao, L. Peng, G. Li, H. Fu and A. Hu, "A Simulation and Experimental Study of Channel Reciprocity in TDD and FDD Wiretap Channels," 2019 IEEE 19th International Conference on Communication Technology (ICCT), Xi'an, China, 2019, pp. 113-117
-- Y. Wang, L. Peng, H. Fu, G. Li and A. Hu, "Performance Analysis of Concatenated Error Correction Code in Secret Key Generation System," 2019 IEEE 19th International Conference on Communication Technology (ICCT), Xi'an, China, 2019, pp. 270-275
-- G. Li, J. Yu, Y. Xing and A. Hu, "Location-Invariant Physical Layer Identification Approach for WiFi Devices," in IEEE Access, vol. 7, pp. 106974-106986, 2019
-- G. Li., Z. Zhang et al A Hybrid Information Reconciliation Method for Physical Layer Key Generation. Entropy 2019,21, 688
-- B. Liu, A. Hu and G. Li, "Secret Key Generation Scheme Based on the Channel Covariance Matrix Eigenvalues in FDD Systems," in IEEE Communications Letters, vol. 23, no. 9, pp. 1493-1496, Sept. 2019
-- Zhang J, Ding M, Li G, et al. Key generation based on large scale fading[J]. IEEE Transactions on Vehicular Technology, 2019, 68(8): 8222-8226.
-- X. Zhou, A. Hu, G. Li, L. Peng, Y. Xing and J. Yu, "Design of a Robust RF Fingerprint Generation and Classification Scheme for Practical Device Identification," 2019 IEEE Conference on Communications and Network Security (CNS), Washington, DC, USA, 2019, pp. 196-204
-- G. Li, L. Hu and A. Hu, "Lightweight Group Secret Key Generation Leveraging Non-Reconciled Received Signal Strength in Mobile Wireless Networks," 2019 IEEE International Conference on Communications Workshops (ICC Workshops), Shanghai, China, 2019, pp. 1-6
-- G. Li, et al. Physical Layer Key Generation in 5G and Beyond Wireless Communications: Challenges and Opportunities. Entropy 2019, 21, 497.
-- J. Yu, A. Hu, G. Li and L. Peng, "A Multi-Sampling Convolutional Neural Network-Based RF Fingerprinting Approach for Low-Power Devices," IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Paris, France, 2019, pp. 1-6
-- Z. Zhang, G. Li and A. Hu, "An Adaptive Information Reconciliation Protocol for Physical-Layer Based Secret Key Generation," 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), Kuala Lumpur, Malaysia, 2019, pp. 1-5
-- J. Yu, A. Hu, G. Li and L. Peng, "A Robust RF Fingerprinting Approach Using Multisampling Convolutional Neural Network," in IEEE Internet of Things Journal, vol. 6, no. 4, pp. 6786-6799
-- A. Hu, G. Li, et al. Teaching Exploration of Cutting-edge Technologies in Cyberspace Security Integrated with Ideological and Political Education. Journal of Network and Information Security. 2019 5 (3) : 54-66.
+- Y. Xing, A. Hu, J. Yu, **G. Li**, L. Peng and F. Zhou, "A Robust Radio Frequency Fingerprint Identification Scheme for LFM Pulse Radars," 2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), Barcelona, Spain, 2019, pp. 1-6
+- J. Yu, A. Hu; F. Zhou; Y. Xing; Y. Yu; **G. Li.**, "Radio Frequency Fingerprint Identification Based on Denoising Autoencoders," 2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), Barcelona, Spain, 2019, pp. 1-6
+- L. Yao, L. Peng, **G. Li**, H. Fu and A. Hu, "A Simulation and Experimental Study of Channel Reciprocity in TDD and FDD Wiretap Channels," 2019 IEEE 19th International Conference on Communication Technology (ICCT), Xi'an, China, 2019, pp. 113-117
+- Y. Wang, L. Peng, H. Fu, **G. Li** and A. Hu, "Performance Analysis of Concatenated Error Correction Code in Secret Key Generation System," 2019 IEEE 19th International Conference on Communication Technology (ICCT), Xi'an, China, 2019, pp. 270-275
+- **G. Li**, J. Yu, Y. Xing and A. Hu, "Location-Invariant Physical Layer Identification Approach for WiFi Devices," in IEEE Access, vol. 7, pp. 106974-106986, 2019
+- **G. Li.**, Z. Zhang et al A Hybrid Information Reconciliation Method for Physical Layer Key Generation. Entropy 2019,21, 688
+- B. Liu, A. Hu and **G. Li**, "Secret Key Generation Scheme Based on the Channel Covariance Matrix Eigenvalues in FDD Systems," in IEEE Communications Letters, vol. 23, no. 9, pp. 1493-1496, Sept. 2019
+- Zhang J, Ding M, **Li G**, et al. Key generation based on large scale fading[J]. IEEE Transactions on Vehicular Technology, 2019, 68(8): 8222-8226.
+- X. Zhou, A. Hu, **G. Li**, L. Peng, Y. Xing and J. Yu, "Design of a Robust RF Fingerprint Generation and Classification Scheme for Practical Device Identification," 2019 IEEE Conference on Communications and Network Security (CNS), Washington, DC, USA, 2019, pp. 196-204
+- **G. Li**, L. Hu and A. Hu, "Lightweight Group Secret Key Generation Leveraging Non-Reconciled Received Signal Strength in Mobile Wireless Networks," 2019 IEEE International Conference on Communications Workshops (ICC Workshops), Shanghai, China, 2019, pp. 1-6
+- **G. Li**, et al. Physical Layer Key Generation in 5G and Beyond Wireless Communications: Challenges and Opportunities. Entropy 2019, 21, 497.
+- J. Yu, A. Hu, **G. Li** and L. Peng, "A Multi-Sampling Convolutional Neural Network-Based RF Fingerprinting Approach for Low-Power Devices," IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Paris, France, 2019, pp. 1-6
+- Z. Zhang, **G. Li** and A. Hu, "An Adaptive Information Reconciliation Protocol for Physical-Layer Based Secret Key Generation," 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), Kuala Lumpur, Malaysia, 2019, pp. 1-5
+- J. Yu, A. Hu, **G. Li** and L. Peng, "A Robust RF Fingerprinting Approach Using Multisampling Convolutional Neural Network," in IEEE Internet of Things Journal, vol. 6, no. 4, pp. 6786-6799
+- A. Hu, **G. Li**, et al. Teaching Exploration of Cutting-edge Technologies in Cyberspace Security Integrated with Ideological and Political Education. Journal of Network and Information Security. 2019 5 (3) : 54-66.
 
 ### 2018
-- L. Peng, G. Li, J. Zhang and A. Hu, "Securing M2M Transmissions Using Nonreconciled Secret Keys Generated from Wireless Channels," 2018 IEEE Globecom Workshops (GC Wkshps), Abu Dhabi, United Arab Emirates, 2018, pp. 1-6
-- G. Li, A. Hu, C. Sun and J. Zhang, "Constructing Reciprocal Channel Coefficients for Secret Key Generation in FDD Systems," in IEEE Communications Letters, vol. 22, no. 12, pp. 2487-2490, Dec. 2018
-- L. Hu, A. Hu, G. Li and C. Cao, "Lightweight Group Key Distribution Method Based on High Similar Wireless Channel Characteristics," 2018 IEEE 18th International Conference on Communication Technology (ICCT), Chongqing, China, 2018, pp. 140-144
-- Y. Xing, A. Hu, J. Zhang, L. Peng and G. Li, "On Radio Frequency Fingerprint Identification for DSSS Systems in Low SNR Scenarios," in IEEE Communications Letters, vol. 22, no. 11, pp. 2326-2329, Nov. 2018
-- L. PENG, G. Li, J. Zhang, R. Woods, M. Liu and A. Hu, "An Investigation of Using Loop-Back Mechanism for Channel Reciprocity Enhancement in Secret Key Generation," in IEEE Transactions on Mobile Computing, vol. 18, no. 3, pp. 507-519, 1 March 2019
-- G. Li, A. Hu, J. Zhang, L. Peng, C. Sun and D. Cao, "High-Agreement Uncorrelated Secret Key Generation Based on Principal Component Analysis Preprocessing," in IEEE Transactions on Communications, vol. 66, no. 7, pp. 3022-3034, July 2018
-- L. Hu, F. Zhang, A. Hu, Y. Jiang, G. Li, A key generation scheme for wireless physical layer based on frequency hopping, Procedia Computer Science, Volume 131, 2018, 1104-1112
+- L. Peng, **G. Li**, J. Zhang and A. Hu, "Securing M2M Transmissions Using Nonreconciled Secret Keys Generated from Wireless Channels," 2018 IEEE Globecom Workshops (GC Wkshps), Abu Dhabi, United Arab Emirates, 2018, pp. 1-6
+- **G. Li**, A. Hu, C. Sun and J. Zhang, "Constructing Reciprocal Channel Coefficients for Secret Key Generation in FDD Systems," in IEEE Communications Letters, vol. 22, no. 12, pp. 2487-2490, Dec. 2018
+- L. Hu, A. Hu, **G. Li** and C. Cao, "Lightweight Group Key Distribution Method Based on High Similar Wireless Channel Characteristics," 2018 IEEE 18th International Conference on Communication Technology (ICCT), Chongqing, China, 2018, pp. 140-144
+- Y. Xing, A. Hu, J. Zhang, L. Peng and **G. Li**, "On Radio Frequency Fingerprint Identification for DSSS Systems in Low SNR Scenarios," in IEEE Communications Letters, vol. 22, no. 11, pp. 2326-2329, Nov. 2018
+- L. PENG, **G. Li**, J. Zhang, R. Woods, M. Liu and A. Hu, "An Investigation of Using Loop-Back Mechanism for Channel Reciprocity Enhancement in Secret Key Generation," in IEEE Transactions on Mobile Computing, vol. 18, no. 3, pp. 507-519, 1 March 2019
+- **G. Li**, A. Hu, J. Zhang, L. Peng, C. Sun and D. Cao, "High-Agreement Uncorrelated Secret Key Generation Based on Principal Component Analysis Preprocessing," in IEEE Transactions on Communications, vol. 66, no. 7, pp. 3022-3034, July 2018
+- L. Hu, F. Zhang, A. Hu, Y. Jiang, **G. Li**, A key generation scheme for wireless physical layer based on frequency hopping, Procedia Computer Science, Volume 131, 2018, 1104-1112
 
 ### Earlier
-- G. Li, A. Hu, J. Zhang and B. Xiao, "Security Analysis of a Novel Artificial Randomness Approach for Fast Key Generation," GLOBECOM 2017 - 2017 IEEE Global Communications Conference, Singapore, 2017, pp. 1-6
-- L. Peng, G. Li and A. Hu, "Channel reciprocity improvement of secret key generation with loopback transmissions," 2017 IEEE 17th International Conference on Communication Technology (ICCT), Chengdu, China, 2017, pp. 193-198
-- G. Li. Research on the Theory and Method of Physical Layer Security in Wireless Communication Diss. Nanjing: Southeast University, 2017.
-- G. Li, A. Hu, L. Peng and C. Sun, "The Optimal Preprocessing Approach for Secret Key Generation from OFDM Channel Measurements," 2016 IEEE Globecom Workshops (GC Wkshps), Washington, DC, USA, 2016, pp. 1-6
-- G. Li and A. Hu, "Virtual MIMO-based cooperative beamforming and jamming scheme for the clustered wireless sensor network security," 2016 2nd IEEE International Conference on Computer and Communications (ICCC), Chengdu, China, 2016, pp. 2246-2250
-- J. Li, A. Hu and G. Li, "Analysis of non-reciprocity factors in extracting secret key from wireless channels for practical indoor scenarios," 2016 2nd IEEE International Conference on Computer and Communications (ICCC), Chengdu, China, 2016, pp. 227-231
-- G. Li and A. Hu, "MISO secrecy transmission via designing artificial noise by receiver under perfect and imperfect CSI," 2016 2nd IEEE International Conference on Computer and Communications (ICCC), Chengdu, China, 2016, pp. 2664-2668
-- G. Li, A. Hu, Y. Zou, L. Peng and M. Valkama, "A Novel Transform for Secret Key Generation in Time-Varying TDD Channel under Hardware Fingerprint Deviation," 2015 IEEE 82nd Vehicular Technology Conference (VTC2015-Fall), Boston, MA, USA, 2015, pp. 1-5
-- G. Li et al, Y. A novel artificial noise aided security scheme to resist blind source separation attacks. Chin. Sci. Bull. 59, 4225-4234 (2014)
-- G. Li, et al. Key generation method for wireless channels [J]. Journal of Cryptologic Research, 2014, 1(3): 211-224.
-- A. Hu, G. Li. Physical layer security in wireless communication: A survey [J]. Data Acquisition and Processing,2014,29(3):341-350
-- G. Li, and A. Hu, An approach to resist blind source separation attacks of speech signals, 2014 Communications Security Conference (CSC 2014).
+- **G. Li**, A. Hu, J. Zhang and B. Xiao, "Security Analysis of a Novel Artificial Randomness Approach for Fast Key Generation," GLOBECOM 2017 - 2017 IEEE Global Communications Conference, Singapore, 2017, pp. 1-6
+- L. Peng, **G. Li** and A. Hu, "Channel reciprocity improvement of secret key generation with loopback transmissions," 2017 IEEE 17th International Conference on Communication Technology (ICCT), Chengdu, China, 2017, pp. 193-198
+- **G. Li**. Research on the Theory and Method of Physical Layer Security in Wireless Communication Diss. Nanjing: Southeast University, 2017.
+- **G. Li**, A. Hu, L. Peng and C. Sun, "The Optimal Preprocessing Approach for Secret Key Generation from OFDM Channel Measurements," 2016 IEEE Globecom Workshops (GC Wkshps), Washington, DC, USA, 2016, pp. 1-6
+- **G. Li** and A. Hu, "Virtual MIMO-based cooperative beamforming and jamming scheme for the clustered wireless sensor network security," 2016 2nd IEEE International Conference on Computer and Communications (ICCC), Chengdu, China, 2016, pp. 2246-2250
+- J. Li, A. Hu and **G. Li**, "Analysis of non-reciprocity factors in extracting secret key from wireless channels for practical indoor scenarios," 2016 2nd IEEE International Conference on Computer and Communications (ICCC), Chengdu, China, 2016, pp. 227-231
+- **G. Li** and A. Hu, "MISO secrecy transmission via designing artificial noise by receiver under perfect and imperfect CSI," 2016 2nd IEEE International Conference on Computer and Communications (ICCC), Chengdu, China, 2016, pp. 2664-2668
+- **G. Li**, A. Hu, Y. Zou, L. Peng and M. Valkama, "A Novel Transform for Secret Key Generation in Time-Varying TDD Channel under Hardware Fingerprint Deviation," 2015 IEEE 82nd Vehicular Technology Conference (VTC2015-Fall), Boston, MA, USA, 2015, pp. 1-5
+- **G. Li** et al, Y. A novel artificial noise aided security scheme to resist blind source separation attacks. Chin. Sci. Bull. 59, 4225-4234 (2014)
+- **G. Li**, et al. Key generation method for wireless channels [J]. Journal of Cryptologic Research, 2014, 1(3): 211-224.
+- A. Hu, **G. Li**. Physical layer security in wireless communication: A survey [J]. Data Acquisition and Processing,2014,29(3):341-350
+- **G. Li**, and A. Hu, An approach to resist blind source separation attacks of speech signals, 2014 Communications Security Conference (CSC 2014).
 
 ## Supervision and Mentoring
 ### PhD Students
