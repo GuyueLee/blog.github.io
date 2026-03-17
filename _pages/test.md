@@ -30,7 +30,8 @@ redirect_from:
 | 2019 - 2020       | Visiting Scholar<br>École supérieure d'ingénieurs en électronique et électrotechnique   |
 | 2017 - 2020       | Lecturer<br>School of Cyberspace Security, Southeast University                          |
 
-# Academic Qualifications 123
+# Academic Qualifications
+
 | Time          | Institution & Degree                                                                                     |
 |---------------|----------------------------------------------------------------------------------------------------------|
 | May 2017      | Southeast University, Doctor of Science in School of Information & Communication Science                 |
