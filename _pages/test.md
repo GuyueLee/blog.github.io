@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /test/
 author_profile: true
 redirect_from:
