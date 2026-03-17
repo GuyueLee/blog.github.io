@@ -86,22 +86,68 @@ redirect_from:
 
 
 # Research Projects
-| Time Period | Project Name & Funding | Role | Status |
-|-------------|------------------------|------|--------|
-| 2023 - 2025 | Subproject of National Key R&D Program, "Endogenous Security and Privacy Protection Technologies for 6G Mobile Communications: Research and Prototype Verification of Low-Latency Physical Layer Authentication Methods" (0.585 million CNY) | Participant | Ongoing |
-| 2023 - 2026 | Subproject of Joint Fund Project, NSFC, "Endogenous Security Theory of 'One-Time Pad' in Wireless Communications, Implementation Methods Based on Information Metamaterials, and Physical Layer Key Generation and Performance Analysis Based on RIS" (0.48 million CNY) | Participant | Ongoing |
-| 2021 - 2024 | General Program of Jiangsu Natural Science Foundation, BK20211160, "Research on Air Interface Endogenous Secure Transmission Theory and Methods for 5G Massive IoT" (0.1 million CNY) | Principal Investigator | Ongoing |
-| 2020 - 2023 | International Science and Technology Innovation Cooperation Key Special Project, National Key R&D Program, 2020YFE0200600, "Joint R&D on IoT Security Framework and Key Technologies Based on Quantum Keys" (8.35 million CNY) | Participant | Ongoing |
-| 2020 - 2021 | Special Project, NSFC, 61941115, "Research on Air Interface Secure Communication Theory and Methods via Dynamic Construction of Physical Characteristics" (0.81 million CNY) | Participant | Ongoing |
-| 2019 - 2022 | Jiangsu Key R&D Program – Industry Foresight and Key Core Competitive Project, BE2019109, "Research and Application of Edge Access Security Technology for Power IoT" (2.5 million CNY) | Participant | Ongoing |
-| 2019 - 2021 | Basic Research Support Project, "Research on Key Technologies for Secure Edge Access in IoT" (0.04 million CNY) | Principal Investigator | Ongoing |
-| 2019 - 2021 | Youth Science Fund Project, NSFC, 61801115, "Research on Key Generation Methods for FDD Channels in Mobile Communications" (0.225 million CNY) | Principal Investigator | Ongoing |
-| 2018 - 2019 | Technology Service Project, 8509010002, Jiangsu Electric Power Information Technology Co., Ltd., "Outsourced R&D Service Procurement for Wireless Access Security Management Platform Based on Device Fingerprint Technology" (1.161 million CNY) | Principal Investigator | Ongoing |
-| 2018 - 2019 | New Faculty Startup Fund, 3209008202, "Research on Physical Layer Security Technology Based on FDD Channel Characteristics" (0.1 million CNY) | Principal Investigator | Completed |
-| 2017 - 2019 | Youth Science Fund Project, NSFC, 61602113, "Research on Wireless Target Identification and Localization Technology Based on RF Fingerprinting" (0.21 million CNY) | Participant | Completed |
-| 2017 - 2019 | Youth Science Fund Project, NSFC, 61601114, "Research on Identification and Authentication Security Technology Based on Physical Layer Fingerprinting in Optical Communication Systems" (0.22 million CNY) | Participant | Completed |
-| 2016 - 2019 | Youth Project of Jiangsu Natural Science Foundation, BK20160692, "Research on Wireless Communication Security Technology Based on Physical Layer Characteristics" (0.2 million CNY) | Participant | Completed |
-| 2016 - 2019 | General Program, NSFC, 61571110, "Research on Physical Layer Security Technologies for Future Mobile Communications" (0.57 million CNY) | Participant | Completed |
+<table width="100%" border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th width="15%" align="left">Time Period</th>
+    <th width="85%" align="left">Project Details</th>
+  </tr>
+  <tr>
+    <td>2023 - 2025</td>
+    <td>Subproject of National Key R&D Program, "Endogenous Security and Privacy Protection Technologies for 6G Mobile Communications: Research and Prototype Verification of Low-Latency Physical Layer Authentication Methods", 0.585 million CNY, Participant, Ongoing</td>
+  </tr>
+  <tr>
+    <td>2023 - 2026</td>
+    <td>Subproject of Joint Fund Project, National Natural Science Foundation of China (NSFC), "Endogenous Security Theory of 'One-Time Pad' in Wireless Communications, Implementation Methods Based on Information Metamaterials, and Physical Layer Key Generation and Performance Analysis Based on RIS", 0.48 million CNY, Participant, Ongoing</td>
+  </tr>
+  <tr>
+    <td>2021 - 2024</td>
+    <td>General Program of Jiangsu Natural Science Foundation, BK20211160, "Research on Air Interface Endogenous Secure Transmission Theory and Methods for 5G Massive IoT", 0.1 million CNY, Principal Investigator, Ongoing</td>
+  </tr>
+  <tr>
+    <td>2020 - 2023</td>
+    <td>International Science and Technology Innovation Cooperation Key Special Project, National Key R&D Program, 2020YFE0200600, "Joint R&D on IoT Security Framework and Key Technologies Based on Quantum Keys", 8.35 million CNY, Participant, Ongoing</td>
+  </tr>
+  <tr>
+    <td>2020 - 2021</td>
+    <td>Special Project, National Natural Science Foundation of China (NSFC), 61941115, "Research on Air Interface Secure Communication Theory and Methods via Dynamic Construction of Physical Characteristics", 0.81 million CNY, Participant, Ongoing</td>
+  </tr>
+  <tr>
+    <td>2019 - 2022</td>
+    <td>Jiangsu Key R&D Program – Industry Foresight and Key Core Competitive Project, BE2019109, "Research and Application of Edge Access Security Technology for Power IoT", 2.5 million CNY, Participant, Ongoing</td>
+  </tr>
+  <tr>
+    <td>2019 - 2021</td>
+    <td>Basic Research Support Project, "Research on Key Technologies for Secure Edge Access in IoT", 0.04 million CNY, Principal Investigator, Ongoing</td>
+  </tr>
+  <tr>
+    <td>2019 - 2021</td>
+    <td>Youth Science Fund Project, National Natural Science Foundation of China (NSFC), 61801115, "Research on Key Generation Methods for FDD Channels in Mobile Communications", 0.225 million CNY, Principal Investigator, Ongoing</td>
+  </tr>
+  <tr>
+    <td>2018 - 2019</td>
+    <td>Technology Service Project, 8509010002, Jiangsu Electric Power Information Technology Co., Ltd., "Outsourced R&D Service Procurement for Wireless Access Security Management Platform Based on Device Fingerprint Technology", 1.161 million CNY, Principal Investigator, Ongoing</td>
+  </tr>
+  <tr>
+    <td>2018 - 2019</td>
+    <td>New Faculty Startup Fund, 3209008202, "Research on Physical Layer Security Technology Based on FDD Channel Characteristics", 0.1 million CNY, Principal Investigator, Completed</td>
+  </tr>
+  <tr>
+    <td>2017 - 2019</td>
+    <td>Youth Science Fund Project, National Natural Science Foundation of China (NSFC), 61602113, "Research on Wireless Target Identification and Localization Technology Based on RF Fingerprinting", 0.21 million CNY, Participant, Completed</td>
+  </tr>
+  <tr>
+    <td>2017 - 2019</td>
+    <td>Youth Science Fund Project, National Natural Science Foundation of China (NSFC), 61601114, "Research on Identification and Authentication Security Technology Based on Physical Layer Fingerprinting in Optical Communication Systems", 0.22 million CNY, Participant, Completed</td>
+  </tr>
+  <tr>
+    <td>2016 - 2019</td>
+    <td>Youth Project of Jiangsu Natural Science Foundation, BK20160692, "Research on Wireless Communication Security Technology Based on Physical Layer Characteristics", 0.2 million CNY, Participant, Completed</td>
+  </tr>
+  <tr>
+    <td>2016 - 2019</td>
+    <td>General Program, National Natural Science Foundation of China (NSFC), 61571110, "Research on Physical Layer Security Technologies for Future Mobile Communications", 0.57 million CNY, Participant, Completed</td>
+  </tr>
+</table>
 
 # Honors
 | Year | Honor Title |
