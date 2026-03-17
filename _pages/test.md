@@ -38,7 +38,7 @@ redirect_from:
 | August 2014   | Tampere University of Technology, Visiting Student with the Department of Electrical Engineering         |
 | June 2011     | Southeast University, Bachelor of Information Engineering in Chien-Shiung WU Honors College              |
 
-# Professional Service11
+# Professional Service
 
 ## Editorial Roles
 | Time Period       | Role & Affiliation                                                                 |
