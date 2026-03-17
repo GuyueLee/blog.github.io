@@ -324,14 +324,14 @@ redirect_from:
 - A. Hu, **G. Li**. Physical layer security in wireless communication: A survey [J]. Data Acquisition and Processing,2014,29(3):341-350
 - **G. Li**, and A. Hu, An approach to resist blind source separation attacks of speech signals, 2014 Communications Security Conference (CSC 2014).
 
-## Supervision and Mentoring
-### PhD Students
+# Supervision and Mentoring
+## PhD Students
 - 2025: Shah Syed Shafaq Ali, Longlong Shen, Xiaobo Wang, Jiawei Hu
 - 2024: Zhiyu Huang, Zhiming Chu
 - 2023: Tianqi Wu
 
-### Master Students
-#### 2025
+## Master Students
+### 2025
 - Zechen Zhang: Research on RF Fingerprint Recognition Technology in Large Scale Device Access
 - Haoyu Li: Research on Physical-Layer Key Generation Methods Based on Reconfigurable Intelligent Surface
 - Mokai Yang: Research on Wireless Channel Key Generation Technique for 5G NR
@@ -340,7 +340,7 @@ redirect_from:
 - Ruichen Sun: Physical Layer Key Generation Method and Implementation for DSC Communication System
 - Sheng Feng: Physical-Layer Secret Key Generation with Energy Efficiency Maximization
 
-#### 2024
+### 2024
 - Jingyan Yang: Research on Gas Consumption Optimization Methods for Ethereum Smart Contracts Aimed at Anonymous Transactions
 - Jinrong Zhao: Research on Key Generation Techniques under FDD Massive MIMO Systems
 - Yiyun Ma: Research on Authentication of Biometric Fingerprint
@@ -350,24 +350,24 @@ redirect_from:
 - Lilin Yang: Research on Theoretical Methods of Physical Layer Key Generation for Multiple Communication Scenarios
 - Wenjie Wang: Research on Key Generation Technology of Multi-User Wireless Channels in OFDMA System
 
-#### 2023
+### 2023
 - Zhichao Huang: Research on Device Fingerprint Extraction Method for Automotive Ethernet
 - Shuying Feng: Wireless Channel Key Generation Method for High-Speed Mobile Scenarios
 - Zongyue Hou: Research on physical layer key generation method for LTE
 - Jitong Shi: Research on Radio Frequency Fingerprint Recognition method in small-sample scenarios
 - Lei Hu: Reconfigurable Intelligent Surface-based Physical-layer Key Generation
 
-#### 2022
+### 2022
 - Zhi Cao: Research on 5G-oriented physical layer key generation algorithm
-- Haiyu Yang: Security Evaluation and Enhancement ofWireless Channel Secret Key
+- Haiyu Yang: Security Evaluation and Enhancement of Wireless Channel Secret Key
 - Xinwei Zhang: Research on Deep Learning-Based Key Generation for FDD Systems
 
-## Invited Talks
+# Invited Talks
 - Apr. 2025: “Security Considerations on Wireless Physical Layer Key Generation: Challenges and Countermeasures”, Global 6G Conference 2025, Nanjing, China
 - Nov. 2024: “Wireless Channel Key Generation Methods: Evolution and Transformation”, 2024 National Conference on Information Theory and the 31st Academic Conference of the Chinese Institute of Electronics (CIEIT 2024), Nanjing Suning Jinling Hilton Hotel, Nanjing, China
 - Sep. 2022: “Exploring the Impact of Intelligent Reflecting Surfaces on Wireless Channel Key Generation Technology”, 5th Industry Salon on Cyberspace Endogenous Security - Trends in Intelligent Metasurface Technology and Its Enabling Role in Wireless Endogenous Security, Online Seminar
 
-## Short Bio
+# Short Bio
 Guyue Li (Member, IEEE) is an Associate Professor at the School of Cyber Science and Engineering, Southeast University, China. With over a decade of focused research in wireless communication security and cyberspace security, she has published more than 90 high-quality papers in top-tier IEEE journals and conferences, including IEEE Transactions on Information Forensics and Security, IEEE Transactions on Wireless Communications, and IEEE INFOCOM.
 
 Dr. Li was named to Stanford University’s World's Top 2% Scientists in both 2024 and 2025, and has been honored with the 2022 URSI AT-AP-RASC Young Scientist Award, 2022 Jiangsu Institute of Cyber Science and Engineering Young Scientist Award, and 2023 IEEE Communications Letters Exemplary Editor title.
