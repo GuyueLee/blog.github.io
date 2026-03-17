@@ -21,13 +21,13 @@ redirect_from:
 - **Google Scholar**: https://scholar.google.com/citations?hl=zh-CN&user=dsi9hPEAAAAJ
 - **ResearchGate**: https://www.researchgate.net/profile/Guyue-Li-2
 
-# Professional Appointments
-| Time Period | Position & Affiliation |
-|-------------|------------------------|
-| 2020 - present | Associate Professor & Dean of the Information Security Department, School of Cyberspace Security, Southeast University |
-| 2024 - 2024 | Research Fellow, The Hong Kong Polytechnic University |
-| 2019 - 2020 | Visiting Scholar, École supérieure d'ingénieurs en électronique et électrotechnique |
-| 2017 - 2020 | Lecturer, School of Cyberspace Security, Southeast University |
+# PROFESSIONAL APPOINTMENTS
+| Time Period       | Position & Affiliation                                                                 |
+|-------------------|----------------------------------------------------------------------------------------|
+| 2020 - present    | Associate Professor & Dean of the Information Security Department<br>School of Cyberspace Security, Southeast University |
+| 2024 - 2024       | Research Fellow<br>The Hong Kong Polytechnic University                                |
+| 2019 - 2020       | Visiting Scholar<br>École supérieure d'ingénieurs en électronique et électrotechnique   |
+| 2017 - 2020       | Lecturer<br>School of Cyberspace Security, Southeast University                          |
 
 # Academic Qualifications
 | Time | Institution & Degree |
