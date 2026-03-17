@@ -40,15 +40,19 @@ redirect_from:
 
 # Professional Service
 ## Editorial Roles
-- 2023 - present: Editor, IEEE Communication Letters
-- 2023 - present: Associate Editor, EURASIP Journal on Wireless Communications and Networking
+| Time Period       | Role & Affiliation                                                                 |
+|-------------------|-------------------------------------------------------------------------------------|
+| 2023 - present    | Editor, IEEE Communication Letters                                                  |
+| 2023 - present    | Associate Editor, EURASIP Journal on Wireless Communications and Networking         |
 
 ## Conference Roles
-- 2025: Co-Chair, IEEE VTC-Fall 2025 Workshop; Co-Chair, IEEE PIMRC 2025
-- 2024: Co-Chair, IEEE IoTCIT 2024 Workshop
-- 2023: Co-Chair, IEEE VTC-Fall 2023 Workshop
-- 2022: Co-Chair, IEEE VTC-Fall 2022 Workshop; Invited Speaker, IEEE ICCT 2022
-- 2021: Co-Chair, IEEE VTC-Fall 2021 Workshop
+| Time Period       | Role & Affiliation                                                                 |
+|-------------------|-------------------------------------------------------------------------------------|
+| 2025              | Co-Chair, IEEE VTC-Fall 2025 Workshop; Co-Chair, IEEE PIMRC 2025                    |
+| 2024              | Co-Chair, IEEE IoTCIT 2024 Workshop                                                |
+| 2023              | Co-Chair, IEEE VTC-Fall 2023 Workshop                                              |
+| 2022              | Co-Chair, IEEE VTC-Fall 2022 Workshop; Invited Speaker, IEEE ICCT 2022              |
+| 2021              | Co-Chair, IEEE VTC-Fall 2021 Workshop                                              |
 
 # Research Projects
 | Time Period | Project Name & Funding | Role | Status |
