@@ -21,7 +21,7 @@ redirect_from:
 - **Google Scholar**: https://scholar.google.com/citations?hl=zh-CN&user=dsi9hPEAAAAJ
 - **ResearchGate**: https://www.researchgate.net/profile/Guyue-Li-2
 
-# PROFESSIONAL APPOINTMENTS11
+# PROFESSIONAL APPOINTMENTS
 
 | Time Period       | Position & Affiliation                                                                 |
 |-------------------|----------------------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ redirect_from:
 | 2019 - 2020       | Visiting Scholar<br>École supérieure d'ingénieurs en électronique et électrotechnique   |
 | 2017 - 2020       | Lecturer<br>School of Cyberspace Security, Southeast University                          |
 
-# Academic Qualifications
+# Academic Qualifications 123
 | Time          | Institution & Degree                                                                                     |
 |---------------|----------------------------------------------------------------------------------------------------------|
 | May 2017      | Southeast University, Doctor of Science in School of Information & Communication Science                 |
