@@ -9,6 +9,16 @@ redirect_from:
 
 
 {% include base_path %}
+# Short Bio
+Guyue Li (Member, IEEE) is an Associate Professor at the School of Cyber Science and Engineering, Southeast University, China. With over a decade of focused research in wireless communication security and cyberspace security, she has published more than 90 high-quality papers in top-tier IEEE journals and conferences, including IEEE Transactions on Information Forensics and Security, IEEE Transactions on Wireless Communications, and IEEE INFOCOM.
+
+Dr. Li was named to Stanford University’s World's Top 2% Scientists in both 2024 and 2025, and has been honored with the 2022 URSI AT-AP-RASC Young Scientist Award, 2022 Jiangsu Institute of Cyber Science and Engineering Young Scientist Award, and 2023 IEEE Communications Letters Exemplary Editor title.
+
+Her research interests span wireless communication physical layer security, 5G/6G endogenous security and privacy protection, reconfigurable intelligent surface (RIS)-assisted secure communication, IoT and edge access security, with core expertise in secret key generation, radio frequency (RF) fingerprint identification, and cooperative jamming.
+
+She has rich international research experience, serving as a Research Fellow at The Hong Kong Polytechnic University, a Visiting Scholar at École supérieure d'ingénieurs en électronique et électrotechnique, and a Visiting Student at Tampere University of Technology.
+
+Currently, Dr. Li holds editorial roles as an Editor of IEEE Communication Letters and an Associate Editor of EURASIP Journal on Wireless Communications and Networking. Her academic service also includes serving as Workshop Co-Chair of IEEE VTC-Fall, Co-Chair of IEEE IoTCIT 2024 Workshop, and upcoming Co-Chair of IEEE PIMRC 2025.
 
 # Personal Details
 - **Full Name**: Guyue Li
@@ -394,13 +404,3 @@ redirect_from:
 - Nov. 2024: “Wireless Channel Key Generation Methods: Evolution and Transformation”, 2024 National Conference on Information Theory and the 31st Academic Conference of the Chinese Institute of Electronics (CIEIT 2024), Nanjing Suning Jinling Hilton Hotel, Nanjing, China
 - Sep. 2022: “Exploring the Impact of Intelligent Reflecting Surfaces on Wireless Channel Key Generation Technology”, 5th Industry Salon on Cyberspace Endogenous Security - Trends in Intelligent Metasurface Technology and Its Enabling Role in Wireless Endogenous Security, Online Seminar
 
-# Short Bio
-Guyue Li (Member, IEEE) is an Associate Professor at the School of Cyber Science and Engineering, Southeast University, China. With over a decade of focused research in wireless communication security and cyberspace security, she has published more than 90 high-quality papers in top-tier IEEE journals and conferences, including IEEE Transactions on Information Forensics and Security, IEEE Transactions on Wireless Communications, and IEEE INFOCOM.
-
-Dr. Li was named to Stanford University’s World's Top 2% Scientists in both 2024 and 2025, and has been honored with the 2022 URSI AT-AP-RASC Young Scientist Award, 2022 Jiangsu Institute of Cyber Science and Engineering Young Scientist Award, and 2023 IEEE Communications Letters Exemplary Editor title.
-
-Her research interests span wireless communication physical layer security, 5G/6G endogenous security and privacy protection, reconfigurable intelligent surface (RIS)-assisted secure communication, IoT and edge access security, with core expertise in secret key generation, radio frequency (RF) fingerprint identification, and cooperative jamming.
-
-She has rich international research experience, serving as a Research Fellow at The Hong Kong Polytechnic University, a Visiting Scholar at École supérieure d'ingénieurs en électronique et électrotechnique, and a Visiting Student at Tampere University of Technology.
-
-Currently, Dr. Li holds editorial roles as an Editor of IEEE Communication Letters and an Associate Editor of EURASIP Journal on Wireless Communications and Networking. Her academic service also includes serving as Workshop Co-Chair of IEEE VTC-Fall, Co-Chair of IEEE IoTCIT 2024 Workshop, and upcoming Co-Chair of IEEE PIMRC 2025.
