@@ -39,6 +39,7 @@ redirect_from:
 | June 2011     | Southeast University, Bachelor of Information Engineering in Chien-Shiung WU Honors College              |
 
 # Professional Service
+
 ## Editorial Roles
 | Time Period       | Role & Affiliation                                                                 |
 |-------------------|-------------------------------------------------------------------------------------|
