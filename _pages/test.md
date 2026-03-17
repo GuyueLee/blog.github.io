@@ -150,17 +150,48 @@ redirect_from:
 </table>
 
 # Honors
-| Year | Honor Title |
-|------|-------------|
-| 2025 | World's Top 2% Scientists compiled by Stanford University in collaboration with Elsevier |
-| 2024 | World's Top 2% Scientists compiled by Stanford University in collaboration with Elsevier |
-| 2023 | IEEE COMUNICATIONS LETTERS EXEMPLARY EDITOR |
-| 2022 | "Zhishan Young Scholar" of Southeast University (A Level) |
-| 2022 | Young Scientist Award of URSI AT-AP-RASC |
-| 2022 | Young Scientist Award of Jiangsu Institute of Cyber Science and Engineering |
-| 2019 | "Zhishan Young Scholar" of Southeast University (B Level) |
-| 2014 | National Scholarship for PhD Students |
-| 2011 | Outstanding Graduate of Southeast University (Top 5%) |
+<table width="100%" border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th width="15%" align="left">Year</th>
+    <th width="85%" align="left">Honor Details</th>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Top 2% Scientists in the World (Stanford University & Elsevier)</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>Top 2% Scientists in the World (Stanford University & Elsevier)</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>Outstanding Editor, IEEE Communication Letters</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>"Zhishan Young Scholar" (Level A), Southeast University</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Young Scientist Award, URSI AT-AP-RASC (International Union of Radio Science)</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Young Scientist Award, Jiangsu Cyberspace Security Association</td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>"Zhishan Young Scholar" (Level B), Southeast University</td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>National Scholarship for Doctoral Students</td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Outstanding Graduate of Southeast University (Top 5%)</td>
+  </tr>
+</table>
 
 # Publications
 ## Selected/Recent Publications
