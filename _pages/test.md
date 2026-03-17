@@ -22,6 +22,7 @@ redirect_from:
 - **ResearchGate**: https://www.researchgate.net/profile/Guyue-Li-2
 
 # PROFESSIONAL APPOINTMENTS
+
 | Time Period       | Position & Affiliation                                                                 |
 |-------------------|----------------------------------------------------------------------------------------|
 | 2020 - present    | Associate Professor & Dean of the Information Security Department<br>School of Cyberspace Security, Southeast University |
