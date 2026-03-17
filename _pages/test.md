@@ -38,20 +38,51 @@ redirect_from:
 | August 2014   | Tampere University of Technology, Visiting Student with the Department of Electrical Engineering         |
 | June 2011     | Southeast University, Bachelor of Information Engineering in Chien-Shiung WU Honors College              |
 
-# Professional Service1
+# Professional Service
+
 ## Editorial Roles
-| Time Period       | Role & Affiliation                                                                 |
-|-------------------|-------------------------------------------------------------------------------------|
-| 2023 - present    | Editor, IEEE Communication Letters                                                  |
-| 2023 - present    | Associate Editor, EURASIP Journal on Wireless Communications and Networking         |
+<table width="100%" border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th width="20%" align="left">Time Period</th>
+    <th width="80%" align="left">Role & Affiliation</th>
+  </tr>
+  <tr>
+    <td>2023 - present</td>
+    <td>Editor, IEEE Communication Letters</td>
+  </tr>
+  <tr>
+    <td>2023 - present</td>
+    <td>Associate Editor, EURASIP Journal on Wireless Communications and Networking</td>
+  </tr>
+</table>
+
 ## Conference Roles
-| Time Period       | Role & Affiliation                                                                 |
-|-------------------|-------------------------------------------------------------------------------------|
-| 2025              | Co-Chair, IEEE VTC-Fall 2025 Workshop; Co-Chair, IEEE PIMRC 2025                    |
-| 2024              | Co-Chair, IEEE IoTCIT 2024 Workshop                                                |
-| 2023              | Co-Chair, IEEE VTC-Fall 2023 Workshop                                              |
-| 2022              | Co-Chair, IEEE VTC-Fall 2022 Workshop; Invited Speaker, IEEE ICCT 2022              |
-| 2021              | Co-Chair, IEEE VTC-Fall 2021 Workshop                                              |
+<table width="100%" border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th width="20%" align="left">Time Period</th>
+    <th width="80%" align="left">Role & Affiliation</th>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Co-Chair, IEEE VTC-Fall 2025 Workshop; Co-Chair, IEEE PIMRC 2025</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>Co-Chair, IEEE IoTCIT 2024 Workshop</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>Co-Chair, IEEE VTC-Fall 2023 Workshop</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Co-Chair, IEEE VTC-Fall 2022 Workshop; Invited Speaker, IEEE ICCT 2022</td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Co-Chair, IEEE VTC-Fall 2021 Workshop</td>
+  </tr>
+</table>
 
 
 # Research Projects
