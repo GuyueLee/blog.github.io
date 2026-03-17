@@ -38,14 +38,12 @@ redirect_from:
 | August 2014   | Tampere University of Technology, Visiting Student with the Department of Electrical Engineering         |
 | June 2011     | Southeast University, Bachelor of Information Engineering in Chien-Shiung WU Honors College              |
 
-# Professional Service2
-
+# Professional Service1
 ## Editorial Roles
 | Time Period       | Role & Affiliation                                                                 |
 |-------------------|-------------------------------------------------------------------------------------|
 | 2023 - present    | Editor, IEEE Communication Letters                                                  |
 | 2023 - present    | Associate Editor, EURASIP Journal on Wireless Communications and Networking         |
-
 ## Conference Roles
 | Time Period       | Role & Affiliation                                                                 |
 |-------------------|-------------------------------------------------------------------------------------|
@@ -54,6 +52,7 @@ redirect_from:
 | 2023              | Co-Chair, IEEE VTC-Fall 2023 Workshop                                              |
 | 2022              | Co-Chair, IEEE VTC-Fall 2022 Workshop; Invited Speaker, IEEE ICCT 2022              |
 | 2021              | Co-Chair, IEEE VTC-Fall 2021 Workshop                                              |
+
 
 # Research Projects
 | Time Period | Project Name & Funding | Role | Status |
